@@ -1,0 +1,14 @@
+sqlalchemy
+fastapi
+pydantic
+pydantic-settings
+pymysql
+apscheduler
+passlib
+pyjwt
+jose
+bcrypt==4.0.1
+starlette
+smtp
+ssl
+pandas

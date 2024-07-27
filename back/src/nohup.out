@@ -1,0 +1,709 @@
+INFO:     Will watch for changes in these directories: ['/home/biyotteu/gunJJang/back/src']
+INFO:     Uvicorn running on http://0.0.0.0:8033 (Press CTRL+C to quit)
+INFO:     Started reloader process [4183] using WatchFiles
+/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/pydantic/_internal/_config.py:341: UserWarning: Valid config keys have changed in V2:
+* 'orm_mode' has been renamed to 'from_attributes'
+  warnings.warn(message, UserWarning)
+INFO:     Started server process [4185]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     106.101.130.58:46176 - "GET / HTTP/1.1" 200 OK
+INFO:     106.101.130.58:46176 - "GET /static/js/main.927256b3.js HTTP/1.1" 200 OK
+INFO:     106.101.130.58:34330 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 200 OK
+INFO:     106.101.130.58:34330 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     106.101.130.58:46176 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     106.101.130.58:46868 - "GET /images/face1.png HTTP/1.1" 200 OK
+INFO:     106.101.130.58:37637 - "GET /images/face2.png HTTP/1.1" 200 OK
+INFO:     106.101.130.58:45087 - "GET /images/face3.png HTTP/1.1" 200 OK
+INFO:     106.101.130.58:45674 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     106.101.130.58:45674 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     27.0.238.187:34194 - "GET / HTTP/1.1" 200 OK
+INFO:     118.235.65.22:60492 - "GET / HTTP/1.1" 200 OK
+INFO:     118.235.65.22:60492 - "GET /static/js/main.927256b3.js HTTP/1.1" 200 OK
+INFO:     118.235.65.22:58627 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 200 OK
+INFO:     118.235.65.22:60492 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     118.235.65.22:58627 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     118.235.65.22:63176 - "GET /static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2 HTTP/1.1" 200 OK
+INFO:     118.235.65.22:62483 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     118.235.65.22:58627 - "GET /images/face3.png HTTP/1.1" 200 OK
+INFO:     118.235.65.22:58501 - "GET /images/face2.png HTTP/1.1" 200 OK
+INFO:     118.235.65.22:60492 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     118.235.65.22:56893 - "GET /images/face1.png HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'utils/maketime.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [4185]
+/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/pydantic/_internal/_config.py:341: UserWarning: Valid config keys have changed in V2:
+* 'orm_mode' has been renamed to 'from_attributes'
+  warnings.warn(message, UserWarning)
+INFO:     Started server process [4356]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     106.101.130.141:35123 - "GET /static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2 HTTP/1.1" 200 OK
+INFO:     106.101.130.141:48765 - "GET /favicon.ico HTTP/1.1" 200 OK
+[['RGC1053-02', 'EGC7026-06', 'RGC1010-02', 'PRI4025-01', 'RGC1084-22', 'PRI4024-02'], ['RGC1012-04', 'RGC1084-22', 'PRI4024-03', 'RGC1053-07', 'PRI4023-01', 'EGC4039-02'], ['RGC1010-01', 'RGC1084-19', 'PRI4023-02', 'EGC7026-05', 'RGC1053-01', 'PRI4024-03'], ['RGC1053-03', 'RGC1013-11', 'PRI4024-02', 'PRI4041-05', 'PRI4025-04', 'RGC1085-06'], ['RGC1014-03', 'RGC1084-13', 'RGC1053-02', 'PRI4023-03', 'PRI4024-04', 'EGC7026-02']]
+[[<models.Lecture object at 0x7feeca7ebbb0>, <models.Lecture object at 0x7feeca7ea620>, <models.Lecture object at 0x7feeca7eac50>, <models.Lecture object at 0x7feeca7eb1f0>, <models.Lecture object at 0x7feeca7eb580>, <models.Lecture object at 0x7feeca7eb610>], [<models.Lecture object at 0x7feeca7eb820>, <models.Lecture object at 0x7feeca7eb580>, <models.Lecture object at 0x7feeca7eb9a0>, <models.Lecture object at 0x7feeca7eba30>, <models.Lecture object at 0x7feeca7ebf10>, <models.Lecture object at 0x7feeca7eb0a0>], [<models.Lecture object at 0x7feeca7eb3d0>, <models.Lecture object at 0x7feeca7ebe80>, <models.Lecture object at 0x7feeca7ebc10>, <models.Lecture object at 0x7feeca7eb490>, <models.Lecture object at 0x7feeca7eb070>, <models.Lecture object at 0x7feeca7eb9a0>], [<models.Lecture object at 0x7feeca7ea6e0>, <models.Lecture object at 0x7feeca7eada0>, <models.Lecture object at 0x7feeca7eb610>, <models.Lecture object at 0x7feeca7eba60>, <models.Lecture object at 0x7feeca7ea1d0>, <models.Lecture object at 0x7feeca7eb520>], [<models.Lecture object at 0x7feeca7eae30>, <models.Lecture object at 0x7feeca7ebe20>, <models.Lecture object at 0x7feeca7ebbb0>, <models.Lecture object at 0x7feeca7ebac0>, <models.Lecture object at 0x7feeca7ebe50>, <models.Lecture object at 0x7feeca7eace0>]]
+INFO:     106.101.130.141:35123 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     106.101.130.141:35123 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:44157 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:36374 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:47890 - "GET /images/face1.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:42594 - "GET /images/face2.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:45416 - "GET /images/face3.png HTTP/1.1" 200 OK
+[['RGC1013-09', 'PRI4025-04', 'RGC1084-11', 'EGC4039-02', 'PRI4023-04', 'RGC1053-08'], ['PRI4023-02', 'RGC1010-13', 'RGC1084-01', 'RGC1053-07', 'PRI4024-03', 'EGC4039-03'], ['RGC1010-10', 'RGC1084-25', 'EGC5033-02', 'PRI4023-02', 'RGC1053-08', 'EGC7026-03'], ['RGC1084-17', 'RGC1014-02', 'PRI4015-02', 'PRI4030-03', 'RGC1053-03', 'PRI4041-01'], ['RGC1085-20', 'RGC1010-17', 'PRI4033-01', 'PRI4027-01', 'RGC1053-05', 'PRI4041-02']]
+[[<models.Lecture object at 0x7feecbcd1990>, <models.Lecture object at 0x7feecbcd1a20>, <models.Lecture object at 0x7feeca7eb1c0>, <models.Lecture object at 0x7feecbcd1930>, <models.Lecture object at 0x7feecbcd1a80>, <models.Lecture object at 0x7feeca7ea260>], [<models.Lecture object at 0x7feecbcd1960>, <models.Lecture object at 0x7feeca7eb970>, <models.Lecture object at 0x7feeca7ebbe0>, <models.Lecture object at 0x7feeca7eb9a0>, <models.Lecture object at 0x7feecbcd11b0>, <models.Lecture object at 0x7feeca857dc0>], [<models.Lecture object at 0x7feeca7eb7c0>, <models.Lecture object at 0x7feeca7ea650>, <models.Lecture object at 0x7feeca7eb880>, <models.Lecture object at 0x7feecbcd1960>, <models.Lecture object at 0x7feeca7ea260>, <models.Lecture object at 0x7feeca7eb070>], [<models.Lecture object at 0x7feecbcd1600>, <models.Lecture object at 0x7feeca7ea620>, <models.Lecture object at 0x7feeca7eb4c0>, <models.Lecture object at 0x7feeca7eb610>, <models.Lecture object at 0x7feecbcd16c0>, <models.Lecture object at 0x7feeca7eb640>], [<models.Lecture object at 0x7feeca7ea230>, <models.Lecture object at 0x7feeca9df7c0>, <models.Lecture object at 0x7feeca7ea290>, <models.Lecture object at 0x7feeca7eb520>, <models.Lecture object at 0x7feeca7ebe50>, <models.Lecture object at 0x7feeca7eac20>]]
+INFO:     106.101.130.141:45416 - "POST /schedule/recommend HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     39.7.230.130:62100 - "GET / HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62099 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62100 - "GET /static/js/main.927256b3.js HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62099 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62100 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62105 - "GET /images/face2.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62106 - "GET /images/face3.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:33517 - "GET /images/face1.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62107 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62107 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62114 - "GET /static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2 HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62117 - "GET /lecture/list/?lecture_name=%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62117 - "GET /lecture/list/?lecture_name=%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC HTTP/1.1" 200 OK
+[['CSC4015-02', 'RGC1013-09', 'EGC7026-06', 'RGC1085-23', 'EGC5033-02', 'RGC1053-09'], ['CSC4015-02', 'EGC7026-05', 'RGC1010-20', 'RGC1085-27', 'PRI4014-03', 'RGC1053-02'], ['CSC4015-02', 'PRI4014-04', 'RGC1011-19', 'RGC1085-21', 'PRI4041-04', 'RGC1053-08'], ['CSC4015-02', 'RGC1084-27', 'RGC1014-03', 'PRI4023-03', 'PRI4041-02', 'RGC1053-01'], ['CSC4015-02', 'RGC1085-16', 'RGC1011-12', 'EGC5033-02', 'RGC1053-01', 'PRI4041-03']]
+[[<models.Lecture object at 0x7feecbcd1450>, <models.Lecture object at 0x7feecbcd0fa0>, <models.Lecture object at 0x7feeca5feb30>, <models.Lecture object at 0x7feeca5fc2e0>, <models.Lecture object at 0x7feeca5fceb0>, <models.Lecture object at 0x7feeca5fd6c0>], [<models.Lecture object at 0x7feecbcd1450>, <models.Lecture object at 0x7feeca5fcc40>, <models.Lecture object at 0x7feeca5fe4d0>, <models.Lecture object at 0x7feeca5fc9a0>, <models.Lecture object at 0x7feeca5fef80>, <models.Lecture object at 0x7feeca5ff1c0>], [<models.Lecture object at 0x7feecbcd1450>, <models.Lecture object at 0x7feeca5ff640>, <models.Lecture object at 0x7feeca5fddb0>, <models.Lecture object at 0x7feeca5fdff0>, <models.Lecture object at 0x7feeca5fca00>, <models.Lecture object at 0x7feeca5ff3d0>], [<models.Lecture object at 0x7feecbcd1450>, <models.Lecture object at 0x7feeca5ff490>, <models.Lecture object at 0x7feeca5ff130>, <models.Lecture object at 0x7feeca5fdd50>, <models.Lecture object at 0x7feeca5fd9c0>, <models.Lecture object at 0x7feeca5ff2e0>], [<models.Lecture object at 0x7feecbcd1450>, <models.Lecture object at 0x7feeca5fc280>, <models.Lecture object at 0x7feeca5fc940>, <models.Lecture object at 0x7feeca5fceb0>, <models.Lecture object at 0x7feeca5ff2e0>, <models.Lecture object at 0x7feeca5fd090>]]
+INFO:     39.7.230.130:62118 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['CSC4015-01', 'RGC1011-02', 'PRI4025-01', 'RGC1053-08', 'EGC5033-01', 'PRI4041-03'], ['CSC4015-01', 'RGC1012-01', 'PRI4024-01', 'RGC1053-05', 'EGC7026-04', 'PRI4025-01'], ['CSC4015-01', 'RGC1011-13', 'PRI4015-02', 'PRI4041-03', 'RGC1053-02', 'PRI4033-01'], ['CSC4015-01', 'RGC1010-11', 'RGC1053-05', 'EGC7026-05', 'RGC1084-07', 'PRI4024-04'], ['CSC4015-01', 'RGC1013-03', 'RGC1084-11', 'RGC1053-07', 'EGC7026-02', 'PRI4023-04']]
+[[<models.Lecture object at 0x7feeca875de0>, <models.Lecture object at 0x7feeca874550>, <models.Lecture object at 0x7feeca875ba0>, <models.Lecture object at 0x7feeca875ae0>, <models.Lecture object at 0x7feeca876c50>, <models.Lecture object at 0x7feeca875090>], [<models.Lecture object at 0x7feeca875de0>, <models.Lecture object at 0x7feeca8744f0>, <models.Lecture object at 0x7feeca875c60>, <models.Lecture object at 0x7feeca876b30>, <models.Lecture object at 0x7feeca876350>, <models.Lecture object at 0x7feeca875ba0>], [<models.Lecture object at 0x7feeca875de0>, <models.Lecture object at 0x7feeca877ee0>, <models.Lecture object at 0x7feeca876770>, <models.Lecture object at 0x7feeca875090>, <models.Lecture object at 0x7feeca874490>, <models.Lecture object at 0x7feeca874160>], [<models.Lecture object at 0x7feeca875de0>, <models.Lecture object at 0x7feeca875e40>, <models.Lecture object at 0x7feeca876b30>, <models.Lecture object at 0x7feeca876920>, <models.Lecture object at 0x7feeca8748b0>, <models.Lecture object at 0x7feeca8743d0>], [<models.Lecture object at 0x7feeca875de0>, <models.Lecture object at 0x7feeca874220>, <models.Lecture object at 0x7feeca876d10>, <models.Lecture object at 0x7feeca875ed0>, <models.Lecture object at 0x7feeca875bd0>, <models.Lecture object at 0x7feeca876140>]]
+INFO:     39.7.230.130:62119 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     106.101.130.141:33538 - "OPTIONS /schedule/recommend HTTP/1.1" 200 OK
+[['RGC1013-12', 'PRI4030-02', 'PRI4033-02', 'RGC1085-10', 'RGC1053-06', 'PRI4041-04'], ['RGC1010-08', 'RGC1053-09', 'RGC1084-03', 'PRI4015-01', 'PRI4023-01', 'EGC4039-03'], ['RGC1010-03', 'EGC5033-01', 'PRI4030-04', 'RGC1053-01', 'RGC1084-19', 'PRI4041-05'], ['RGC1012-04', 'RGC1085-17', 'PRI4024-02', 'PRI4041-05', 'RGC1053-04', 'PRI4027-01'], ['RGC1084-16', 'RGC1012-04', 'PRI4025-03', 'EGC7026-01', 'PRI4024-03', 'RGC1053-04']]
+[[<models.Lecture object at 0x7feecbceb280>, <models.Lecture object at 0x7feecbce90f0>, <models.Lecture object at 0x7feecbce9180>, <models.Lecture object at 0x7feecbcebac0>, <models.Lecture object at 0x7feecbcea4a0>, <models.Lecture object at 0x7feecbcebd60>], [<models.Lecture object at 0x7feecbc67970>, <models.Lecture object at 0x7feecbceb2b0>, <models.Lecture object at 0x7feeca7e9e40>, <models.Lecture object at 0x7feeca7e8460>, <models.Lecture object at 0x7feeca7ea650>, <models.Lecture object at 0x7feeca7eb7f0>], [<models.Lecture object at 0x7feeca7e9d20>, <models.Lecture object at 0x7feeca7eb220>, <models.Lecture object at 0x7feeca7e9f00>, <models.Lecture object at 0x7feeca7e9630>, <models.Lecture object at 0x7feeca7e85e0>, <models.Lecture object at 0x7feeca7e8a00>], [<models.Lecture object at 0x7feeca7e8760>, <models.Lecture object at 0x7feeca7e9ba0>, <models.Lecture object at 0x7feeca7e83a0>, <models.Lecture object at 0x7feeca7e8a00>, <models.Lecture object at 0x7feeca7e8a30>, <models.Lecture object at 0x7feeca7e8850>], [<models.Lecture object at 0x7feeca7ebd90>, <models.Lecture object at 0x7feeca7e8760>, <models.Lecture object at 0x7feeca7ebb50>, <models.Lecture object at 0x7feeca7eba60>, <models.Lecture object at 0x7feeca7eb520>, <models.Lecture object at 0x7feeca7e8a30>]]
+INFO:     106.101.130.141:33538 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['RGC1084-18', 'RGC1010-17', 'PRI4024-02', 'PRI4041-01', 'RGC1053-06', 'PRI4025-04'], ['RGC1010-15', 'RGC1084-02', 'EGC4039-02', 'PRI4023-02', 'RGC1053-01', 'PRI4027-01'], ['RGC1011-03', 'RGC1053-05', 'RGC1085-12', 'PRI4033-01', 'PRI4024-04', 'PRI4041-02'], ['RGC1010-03', 'RGC1085-08', 'PRI4041-05', 'PRI4024-03', 'PRI4023-04', 'RGC1053-07'], ['PRI4025-04', 'RGC1013-14', 'RGC1084-10', 'EGC4039-03', 'RGC1053-09', 'PRI4023-04']]
+[[<models.Lecture object at 0x7feeca876a10>, <models.Lecture object at 0x7feeca8768c0>, <models.Lecture object at 0x7feeca876b90>, <models.Lecture object at 0x7feeca875c60>, <models.Lecture object at 0x7feeca876080>, <models.Lecture object at 0x7feeca876e30>], [<models.Lecture object at 0x7feeca875d80>, <models.Lecture object at 0x7feeca876890>, <models.Lecture object at 0x7feeca8750f0>, <models.Lecture object at 0x7feeca876410>, <models.Lecture object at 0x7feeca876110>, <models.Lecture object at 0x7feeca877d30>], [<models.Lecture object at 0x7feeca876b00>, <models.Lecture object at 0x7feeca874550>, <models.Lecture object at 0x7feeca876920>, <models.Lecture object at 0x7feeca877700>, <models.Lecture object at 0x7feeca876b60>, <models.Lecture object at 0x7feeca876b30>], [<models.Lecture object at 0x7feeca875ba0>, <models.Lecture object at 0x7feeca876c50>, <models.Lecture object at 0x7feeca874af0>, <models.Lecture object at 0x7feeca875240>, <models.Lecture object at 0x7feeca8773d0>, <models.Lecture object at 0x7feeca875ae0>], [<models.Lecture object at 0x7feeca876e30>, <models.Lecture object at 0x7feeca877df0>, <models.Lecture object at 0x7feeca876800>, <models.Lecture object at 0x7feeca874220>, <models.Lecture object at 0x7feeca8765f0>, <models.Lecture object at 0x7feeca8773d0>]]
+INFO:     39.7.230.130:62120 - "POST /schedule/recommend HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     210.94.220.228:51349 - "GET / HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51348 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51349 - "GET /static/js/main.927256b3.js HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51349 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51348 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51358 - "GET /images/face1.png HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51357 - "GET /images/face3.png HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51355 - "GET /images/face2.png HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51356 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51355 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51360 - "GET /static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2 HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51362 - "GET /lecture/list/?lecture_name=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4 HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51362 - "GET /lecture/list/?lecture_name=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4 HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62122 - "GET /lecture/list/?lecture_name=%EC%8B%AC%ED%99%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62122 - "GET /lecture/list/?lecture_name=%EC%8B%AC%ED%99%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D HTTP/1.1" 200 OK
+[['RGC1085-21', 'RGC1011-11', 'PRI4023-04', 'EGC7026-05', 'EGC5033-02', 'RGC1053-04'], ['PRI4023-06', 'RGC1010-13', 'RGC1085-16', 'PRI4027-02', 'RGC1053-01', 'PRI4041-04'], ['RGC1014-10', 'PRI4027-01', 'RGC1085-06', 'PRI4041-03', 'RGC1053-07', 'PRI4033-02'], ['PRI4023-04', 'PRI4024-04', 'RGC1053-08', 'RGC1014-13', 'RGC1085-10', 'PRI4041-03'], ['RGC1085-20', 'RGC1013-02', 'PRI4025-03', 'PRI4023-01', 'RGC1053-07', 'EGC7026-05']]
+[[<models.Lecture object at 0x7feeca6d19f0>, <models.Lecture object at 0x7feeca6d2a10>, <models.Lecture object at 0x7feeca6d0b20>, <models.Lecture object at 0x7feeca6d1960>, <models.Lecture object at 0x7feeca6d2a40>, <models.Lecture object at 0x7feeca6d2b60>], [<models.Lecture object at 0x7feeca6d2770>, <models.Lecture object at 0x7feeca6d0ac0>, <models.Lecture object at 0x7feeca6d1990>, <models.Lecture object at 0x7feeca6d27d0>, <models.Lecture object at 0x7feeca6d0460>, <models.Lecture object at 0x7feeca6d1810>], [<models.Lecture object at 0x7feeca6d2440>, <models.Lecture object at 0x7feeca6d1e40>, <models.Lecture object at 0x7feeca6d2920>, <models.Lecture object at 0x7feeca6d1150>, <models.Lecture object at 0x7feeca6d1030>, <models.Lecture object at 0x7feeca6d3cd0>], [<models.Lecture object at 0x7feeca6d0b20>, <models.Lecture object at 0x7feeca6d1300>, <models.Lecture object at 0x7feeca6d0d30>, <models.Lecture object at 0x7feeca6d04c0>, <models.Lecture object at 0x7feeca6d3370>, <models.Lecture object at 0x7feeca6d1150>], [<models.Lecture object at 0x7feeca6d3130>, <models.Lecture object at 0x7feeca6d0a00>, <models.Lecture object at 0x7feeca6d3580>, <models.Lecture object at 0x7feeca6d3ee0>, <models.Lecture object at 0x7feeca6d1030>, <models.Lecture object at 0x7feeca6d1960>]]
+INFO:     39.7.230.130:62123 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51364 - "GET /lecture/list/?lecture_name=%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%B4%88 HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51364 - "GET /lecture/list/?lecture_name=%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%B4%88 HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51364 - "GET /lecture/list/?lecture_name=%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B8%B0%EC%B4%88 HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51364 - "GET /lecture/list/?lecture_name=%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B8%B0%EC%B4%88 HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62125 - "GET /lecture/list/?lecture_name=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4 HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62125 - "GET /lecture/list/?lecture_name=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4 HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     210.94.220.228:51372 - "GET /home HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+[['CSC4020-01', 'PRI4027-01', 'RGC1053-06', 'EGC7026-06', 'PRI4025-01', 'RGC1014-06'], ['CSC4020-01', 'RGC1011-03', 'RGC1084-26', 'RGC1053-03', 'PRI4033-02', 'PRI4041-04'], ['CSC4020-01', 'RGC1013-04', 'RGC1053-07', 'RGC1085-27', 'EGC4039-01', 'PRI4014-07'], ['CSC4020-01', 'EGC7026-06', 'RGC1011-02', 'PRI4024-03', 'RGC1053-01', 'RGC1085-17'], ['CSC4020-01', 'EGC4039-02', 'PRI4014-03', 'RGC1085-16', 'RGC1013-15', 'RGC1053-07']]
+[[<models.Lecture object at 0x7feecbcd1060>, <models.Lecture object at 0x7feecbcd1390>, <models.Lecture object at 0x7feecbcd0520>, <models.Lecture object at 0x7feecbcd1c30>, <models.Lecture object at 0x7feecbcd10f0>, <models.Lecture object at 0x7feecbcd1000>], [<models.Lecture object at 0x7feecbcd1060>, <models.Lecture object at 0x7feecbcd1600>, <models.Lecture object at 0x7feecbcd21d0>, <models.Lecture object at 0x7feecbcd0bb0>, <models.Lecture object at 0x7feecbcd2140>, <models.Lecture object at 0x7feecbcd2200>], [<models.Lecture object at 0x7feecbcd1060>, <models.Lecture object at 0x7feecbcd1d50>, <models.Lecture object at 0x7feecbcd1240>, <models.Lecture object at 0x7feecbcd20b0>, <models.Lecture object at 0x7feecbcd1450>, <models.Lecture object at 0x7feecbcd1090>], [<models.Lecture object at 0x7feecbcd1060>, <models.Lecture object at 0x7feecbcd1c30>, <models.Lecture object at 0x7feecbcd2260>, <models.Lecture object at 0x7feecbcd1030>, <models.Lecture object at 0x7feecbcd1c00>, <models.Lecture object at 0x7feeca5ff1f0>], [<models.Lecture object at 0x7feecbcd1060>, <models.Lecture object at 0x7feeca5fc460>, <models.Lecture object at 0x7feeca5fca60>, <models.Lecture object at 0x7feeca5fcf70>, <models.Lecture object at 0x7feeca5fcca0>, <models.Lecture object at 0x7feecbcd1240>]]
+INFO:     39.7.230.130:62126 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51371 - "GET /lecture/list/?lecture_name=%EB%B6%88%EA%B5%90%EC%99%80 HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51371 - "GET /lecture/list/?lecture_name=%EB%B6%88%EA%B5%90%EC%99%80 HTTP/1.1" 200 OK
+[['RGC1084-26', 'PRI4023-06', 'RGC1014-19', 'PRI4025-04', 'RGC1053-05', 'PRI4041-03'], ['PRI4023-03', 'RGC1010-05', 'RGC1085-02', 'RGC1053-08', 'PRI4041-03', 'PRI4025-02'], ['EGC7026-02', 'RGC1010-05', 'RGC1084-16', 'PRI4023-06', 'PRI4024-04', 'RGC1053-04'], ['RGC1084-18', 'RGC1013-04', 'PRI4023-03', 'PRI4027-02', 'RGC1053-05', 'PRI4041-03'], ['RGC1085-28', 'RGC1012-04', 'PRI4041-05', 'RGC1053-02', 'PRI4027-01', 'PRI4025-04']]
+[[<models.Lecture object at 0x7feecbcea4a0>, <models.Lecture object at 0x7feecbceb700>, <models.Lecture object at 0x7feecbceb5b0>, <models.Lecture object at 0x7feecbceb580>, <models.Lecture object at 0x7feecbceb0d0>, <models.Lecture object at 0x7feeca876b30>], [<models.Lecture object at 0x7feeca8764a0>, <models.Lecture object at 0x7feeca876470>, <models.Lecture object at 0x7feeca874f70>, <models.Lecture object at 0x7feeca877b20>, <models.Lecture object at 0x7feeca876b30>, <models.Lecture object at 0x7feeca876050>], [<models.Lecture object at 0x7feeca876c20>, <models.Lecture object at 0x7feeca876470>, <models.Lecture object at 0x7feeca875bd0>, <models.Lecture object at 0x7feecbceb700>, <models.Lecture object at 0x7feeca8766b0>, <models.Lecture object at 0x7feeca876c80>], [<models.Lecture object at 0x7feeca8768c0>, <models.Lecture object at 0x7feeca8779d0>, <models.Lecture object at 0x7feeca8764a0>, <models.Lecture object at 0x7feeca877e50>, <models.Lecture object at 0x7feecbceb0d0>, <models.Lecture object at 0x7feeca876b30>], [<models.Lecture object at 0x7feeca877dc0>, <models.Lecture object at 0x7feeca8740d0>, <models.Lecture object at 0x7feeca8751b0>, <models.Lecture object at 0x7feeca874490>, <models.Lecture object at 0x7feeca875f60>, <models.Lecture object at 0x7feecbceb580>]]
+INFO:     106.101.130.141:44574 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['PRI4023-03', 'RGC1012-06', 'RGC1085-07', 'PRI4027-01', 'EGC7026-01', 'RGC1053-04'], ['RGC1014-02', 'RGC1084-14', 'PRI4023-01', 'PRI4027-01', 'PRI4041-05', 'RGC1053-05'], ['RGC1084-16', 'PRI4023-06', 'RGC1014-14', 'PRI4041-04', 'RGC1053-04', 'PRI4015-02'], ['RGC1014-07', 'PRI4023-02', 'PRI4025-04', 'EGC7026-01', 'RGC1084-10', 'RGC1053-04'], ['RGC1012-02', 'RGC1085-28', 'PRI4027-01', 'PRI4041-02', 'RGC1053-03', 'PRI4030-04']]
+[[<models.Lecture object at 0x7feeca7e9030>, <models.Lecture object at 0x7feeca7e94b0>, <models.Lecture object at 0x7feeca7e96c0>, <models.Lecture object at 0x7feeca7e9a20>, <models.Lecture object at 0x7feeca7eb220>, <models.Lecture object at 0x7feeca7e9240>], [<models.Lecture object at 0x7feeca7e8d00>, <models.Lecture object at 0x7feeca7e8250>, <models.Lecture object at 0x7feeca7e9750>, <models.Lecture object at 0x7feeca7e9a20>, <models.Lecture object at 0x7feeca7e9fc0>, <models.Lecture object at 0x7feeca7e9e10>], [<models.Lecture object at 0x7feeca7e9480>, <models.Lecture object at 0x7feeca7eae30>, <models.Lecture object at 0x7feeca7e9540>, <models.Lecture object at 0x7feeca7e9c90>, <models.Lecture object at 0x7feeca7e9240>, <models.Lecture object at 0x7feeca7e9930>], [<models.Lecture object at 0x7feeca7e9840>, <models.Lecture object at 0x7feeca7eb490>, <models.Lecture object at 0x7feeca7e9db0>, <models.Lecture object at 0x7feeca7eb220>, <models.Lecture object at 0x7feeca7ebee0>, <models.Lecture object at 0x7feeca7e9240>], [<models.Lecture object at 0x7feeca7e8880>, <models.Lecture object at 0x7feeca7eace0>, <models.Lecture object at 0x7feeca7e9a20>, <models.Lecture object at 0x7feeca7eb550>, <models.Lecture object at 0x7feeca7eb580>, <models.Lecture object at 0x7feeca7e9a50>]]
+INFO:     210.94.220.228:51377 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['RGC1053-02', 'PRI4024-01', 'RGC1011-06', 'PRI4023-04', 'EGC7026-03', 'RGC1084-27'], ['RGC1084-26', 'RGC1053-01', 'RGC1013-09', 'PRI4041-03', 'PRI4015-02', 'PRI4033-01'], ['RGC1011-14', 'RGC1084-06', 'EGC5033-01', 'PRI4027-01', 'EGC7026-03', 'RGC1053-09'], ['EGC7026-03', 'RGC1014-01', 'PRI4015-02', 'RGC1053-04', 'RGC1084-26', 'PRI4024-01'], ['EGC4039-03', 'PRI4033-02', 'RGC1085-11', 'RGC1013-17', 'PRI4024-03', 'RGC1053-02']]
+[[<models.Lecture object at 0x7feeca876c50>, <models.Lecture object at 0x7feeca876770>, <models.Lecture object at 0x7feecbcd1d50>, <models.Lecture object at 0x7feecbcd35b0>, <models.Lecture object at 0x7feecbcd1d20>, <models.Lecture object at 0x7feecbcd2200>], [<models.Lecture object at 0x7feecbcd16c0>, <models.Lecture object at 0x7feecbcd1750>, <models.Lecture object at 0x7feecbcd35e0>, <models.Lecture object at 0x7feecbcd1120>, <models.Lecture object at 0x7feecbcd36a0>, <models.Lecture object at 0x7feecbcd2260>], [<models.Lecture object at 0x7feecbcd1390>, <models.Lecture object at 0x7feecbcd1ea0>, <models.Lecture object at 0x7feecbcd1600>, <models.Lecture object at 0x7feecbcd1060>, <models.Lecture object at 0x7feecbcd1d20>, <models.Lecture object at 0x7feecbcd0bb0>], [<models.Lecture object at 0x7feecbcd1d20>, <models.Lecture object at 0x7feeca874550>, <models.Lecture object at 0x7feecbcd36a0>, <models.Lecture object at 0x7feeca876b90>, <models.Lecture object at 0x7feecbcd16c0>, <models.Lecture object at 0x7feeca876770>], [<models.Lecture object at 0x7feecbcd1c30>, <models.Lecture object at 0x7feecbcd1450>, <models.Lecture object at 0x7feecbcd17e0>, <models.Lecture object at 0x7feecbcd21d0>, <models.Lecture object at 0x7feecbcd1c00>, <models.Lecture object at 0x7feeca876c50>]]
+INFO:     106.101.130.141:38411 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['RGC1085-12', 'RGC1010-21', 'PRI4024-04', 'PRI4030-02', 'EGC7026-02', 'RGC1053-09'], ['RGC1053-02', 'RGC1085-03', 'RGC1010-21', 'PRI4025-03', 'PRI4023-04', 'PRI4041-02'], ['RGC1084-21', 'EGC5033-01', 'RGC1053-04', 'RGC1013-21', 'PRI4025-03', 'EGC7026-01'], ['RGC1014-18', 'RGC1085-16', 'RGC1053-02', 'PRI4025-04', 'EGC4039-03', 'EGC5033-02'], ['RGC1084-29', 'PRI4015-02', 'RGC1053-05', 'RGC1011-19', 'PRI4025-03', 'PRI4041-03']]
+[[<models.Lecture object at 0x7feeca6d1930>, <models.Lecture object at 0x7feeca6d3040>, <models.Lecture object at 0x7feeca6d2c50>, <models.Lecture object at 0x7feeca6d1c90>, <models.Lecture object at 0x7feeca6d2650>, <models.Lecture object at 0x7feeca6d0b80>], [<models.Lecture object at 0x7feeca6d20e0>, <models.Lecture object at 0x7feeca6d2890>, <models.Lecture object at 0x7feeca6d3040>, <models.Lecture object at 0x7feeca6d3940>, <models.Lecture object at 0x7feeca6d2b00>, <models.Lecture object at 0x7feeca6d0d30>], [<models.Lecture object at 0x7feeca6d3b80>, <models.Lecture object at 0x7feeca6d1360>, <models.Lecture object at 0x7feeca6d3610>, <models.Lecture object at 0x7feeca6d3d00>, <models.Lecture object at 0x7feeca6d3940>, <models.Lecture object at 0x7feeca6d0700>], [<models.Lecture object at 0x7feeca6d0430>, <models.Lecture object at 0x7feeca6d12a0>, <models.Lecture object at 0x7feeca6d20e0>, <models.Lecture object at 0x7feeca6d27d0>, <models.Lecture object at 0x7feeca6d00a0>, <models.Lecture object at 0x7feeca6d0970>], [<models.Lecture object at 0x7feeca6d1870>, <models.Lecture object at 0x7feeca6d3d90>, <models.Lecture object at 0x7feeca6d2170>, <models.Lecture object at 0x7feeca6d1ae0>, <models.Lecture object at 0x7feeca6d3940>, <models.Lecture object at 0x7feeca6d1420>]]
+INFO:     210.94.220.228:51382 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['RGC1013-08', 'PRI4025-04', 'PRI4023-04', 'RGC1053-05', 'RGC1084-19', 'PRI4041-03'], ['RGC1085-08', 'RGC1053-02', 'RGC1013-03', 'PRI4041-02', 'PRI4027-01', 'PRI4023-03'], ['RGC1010-21', 'EGC7026-03', 'RGC1053-06', 'RGC1084-17', 'PRI4033-01', 'PRI4015-01'], ['EGC7026-01', 'RGC1012-17', 'RGC1084-14', 'RGC1053-02', 'PRI4025-03', 'PRI4024-04'], ['RGC1084-17', 'RGC1013-21', 'RGC1053-04', 'PRI4023-06', 'PRI4041-05', 'PRI4024-02']]
+[[<models.Lecture object at 0x7feecbceb550>, <models.Lecture object at 0x7feecbceb040>, <models.Lecture object at 0x7feecbceb3a0>, <models.Lecture object at 0x7feecbceb4f0>, <models.Lecture object at 0x7feecbce9360>, <models.Lecture object at 0x7feecbce90f0>], [<models.Lecture object at 0x7feecbcebac0>, <models.Lecture object at 0x7feeca7eb100>, <models.Lecture object at 0x7feeca7eae90>, <models.Lecture object at 0x7feeca7e91b0>, <models.Lecture object at 0x7feeca7e94b0>, <models.Lecture object at 0x7feeca7e8940>], [<models.Lecture object at 0x7feeca7ebbe0>, <models.Lecture object at 0x7feeca7ebdc0>, <models.Lecture object at 0x7feeca7eb190>, <models.Lecture object at 0x7feeca7eb4f0>, <models.Lecture object at 0x7feeca7eb1f0>, <models.Lecture object at 0x7feeca7ebeb0>], [<models.Lecture object at 0x7feeca7eb940>, <models.Lecture object at 0x7feeca7e8700>, <models.Lecture object at 0x7feeca7e87f0>, <models.Lecture object at 0x7feeca7eb100>, <models.Lecture object at 0x7feeca7e9ab0>, <models.Lecture object at 0x7feeca7eb070>], [<models.Lecture object at 0x7feeca7eb4f0>, <models.Lecture object at 0x7feeca7e8e50>, <models.Lecture object at 0x7feeca7e87c0>, <models.Lecture object at 0x7feeca7e9780>, <models.Lecture object at 0x7feeca7e9f60>, <models.Lecture object at 0x7feeca7e9210>]]
+INFO:     210.94.220.228:51383 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['RGC1010-12', 'PRI4023-04', 'RGC1053-02', 'PRI4030-02', 'RGC1084-22', 'PRI4041-04'], ['RGC1084-03', 'PRI4030-04', 'RGC1053-05', 'RGC1014-12', 'EGC5033-02', 'EGC4039-03'], ['RGC1011-09', 'EGC7026-06', 'RGC1084-28', 'PRI4023-02', 'PRI4027-01', 'RGC1053-02'], ['EGC7026-06', 'PRI4027-02', 'RGC1014-19', 'RGC1084-07', 'PRI4030-04', 'RGC1053-09'], ['PRI4024-01', 'RGC1011-10', 'RGC1053-06', 'RGC1084-07', 'PRI4025-04', 'PRI4041-05']]
+[[<models.Lecture object at 0x7feeca5fe1a0>, <models.Lecture object at 0x7feeca5fd7e0>, <models.Lecture object at 0x7feeca5fea70>, <models.Lecture object at 0x7feeca5fcb50>, <models.Lecture object at 0x7feeca5ffc40>, <models.Lecture object at 0x7feeca5fe710>], [<models.Lecture object at 0x7feeca5fff70>, <models.Lecture object at 0x7feeca5fe0b0>, <models.Lecture object at 0x7feeca5ff4f0>, <models.Lecture object at 0x7feeca5fd360>, <models.Lecture object at 0x7feeca5ffa00>, <models.Lecture object at 0x7feeca5fc0a0>], [<models.Lecture object at 0x7feeca5fc730>, <models.Lecture object at 0x7feeca5fe770>, <models.Lecture object at 0x7feeca5fcf10>, <models.Lecture object at 0x7feeca5fd0c0>, <models.Lecture object at 0x7feeca5fce50>, <models.Lecture object at 0x7feeca5fea70>], [<models.Lecture object at 0x7feeca5fe770>, <models.Lecture object at 0x7feeca5fc940>, <models.Lecture object at 0x7feeca5fe050>, <models.Lecture object at 0x7feeca5fd150>, <models.Lecture object at 0x7feeca5fe0b0>, <models.Lecture object at 0x7feeca5fdae0>], [<models.Lecture object at 0x7feeca5fd900>, <models.Lecture object at 0x7feeca5ff3d0>, <models.Lecture object at 0x7feeca5fd390>, <models.Lecture object at 0x7feeca5fd150>, <models.Lecture object at 0x7feeca5fc4c0>, <models.Lecture object at 0x7feeca5fd990>]]
+INFO:     106.101.130.141:35427 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['PRI4025-01', 'PRI4027-02', 'RGC1011-02', 'RGC1084-19', 'RGC1053-07', 'EGC4039-02'], ['RGC1013-12', 'RGC1084-26', 'RGC1053-09', 'PRI4024-03', 'PRI4023-06', 'EGC4039-02'], ['RGC1013-01', 'PRI4024-02', 'PRI4023-06', 'EGC7026-06', 'RGC1085-23', 'RGC1053-04'], ['RGC1084-22', 'RGC1012-08', 'RGC1053-04', 'PRI4041-04', 'PRI4015-01', 'EGC5033-02'], ['RGC1085-10', 'RGC1013-09', 'RGC1053-02', 'EGC7026-06', 'PRI4030-02', 'PRI4024-02']]
+[['RGC1013-09', 'RGC1085-20', 'PRI4024-03', 'EGC5033-02', 'RGC1053-04', 'EGC7026-03'], ['EGC7026-05', 'RGC1010-05', 'RGC1085-27', 'PRI4024-04', 'RGC1053-06', 'PRI4030-02'], ['PRI4041-04', 'RGC1012-12', 'RGC1085-12', 'PRI4023-02', 'PRI4027-01', 'RGC1053-03'], ['RGC1011-01', 'RGC1085-18', 'PRI4023-03', 'PRI4025-01', 'EGC7026-01', 'RGC1053-09'], ['RGC1084-06', 'RGC1013-10', 'PRI4041-02', 'EGC5033-01', 'PRI4027-02', 'RGC1053-02']]
+[[<models.Lecture object at 0x7feeca876a10>, <models.Lecture object at 0x7feeca875b70>, <models.Lecture object at 0x7feeca876380>, <models.Lecture object at 0x7feeca876aa0>, <models.Lecture object at 0x7feeca875300>, <models.Lecture object at 0x7feeca877df0>], [<models.Lecture object at 0x7feeca8740d0>, <models.Lecture object at 0x7feeca6d02e0>, <models.Lecture object at 0x7feeca7e8970>, <models.Lecture object at 0x7feeca5fee90>, <models.Lecture object at 0x7feeca5fc040>, <models.Lecture object at 0x7feeca877df0>], [<models.Lecture object at 0x7feeca5fcc70>, <models.Lecture object at 0x7feeca5fe290>, <models.Lecture object at 0x7feeca5fc040>, <models.Lecture object at 0x7feeca5ff370>, <models.Lecture object at 0x7feeca5ffca0>, <models.Lecture object at 0x7feeca5fdb40>], [<models.Lecture object at 0x7feeca5fc640>, <models.Lecture object at 0x7feeca5ffd90>, <models.Lecture object at 0x7feeca5fdb40>, <models.Lecture object at 0x7feeca5ff6a0>, <models.Lecture object at 0x7feeca5fc130>, <models.Lecture object at 0x7feeca5ff820>], [<models.Lecture object at 0x7feeca5fd4b0>, <models.Lecture object at 0x7feecbcd1240>, <models.Lecture object at 0x7feecbcd1c90>, <models.Lecture object at 0x7feeca5ff370>, <models.Lecture object at 0x7feecbcd0bb0>, <models.Lecture object at 0x7feeca5fe290>]]
+INFO:     210.94.220.228:51386 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[[<models.Lecture object at 0x7feecbcd1c30>, <models.Lecture object at 0x7feecbcd0730>, <models.Lecture object at 0x7feecbcd3610>, <models.Lecture object at 0x7feecbcd1ba0>, <models.Lecture object at 0x7feecbceb4c0>, <models.Lecture object at 0x7feecbcd36a0>], [<models.Lecture object at 0x7feecbceb3a0>, <models.Lecture object at 0x7feecbcd35e0>, <models.Lecture object at 0x7feecbceb280>, <models.Lecture object at 0x7feecbcd0a60>, <models.Lecture object at 0x7feecbceb9d0>, <models.Lecture object at 0x7feecbcd1ea0>], [<models.Lecture object at 0x7feecbce9d50>, <models.Lecture object at 0x7feecbceb310>, <models.Lecture object at 0x7feecbcd2260>, <models.Lecture object at 0x7feecbcd20e0>, <models.Lecture object at 0x7feecbceb4f0>, <models.Lecture object at 0x7feecbcd1a20>], [<models.Lecture object at 0x7feecbceb5b0>, <models.Lecture object at 0x7feecbcd1090>, <models.Lecture object at 0x7feecbce92a0>, <models.Lecture object at 0x7feecbcd1930>, <models.Lecture object at 0x7feecbceb700>, <models.Lecture object at 0x7feecbcd17e0>], [<models.Lecture object at 0x7feecbceafe0>, <models.Lecture object at 0x7feecbcd0bb0>, <models.Lecture object at 0x7feecbce90f0>, <models.Lecture object at 0x7feecbcd1780>, <models.Lecture object at 0x7feecbceb250>, <models.Lecture object at 0x7feecbcd1a80>]]
+INFO:     106.101.130.141:48398 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['CSC4020-01', 'PRI4023-02', 'RGC1053-07', 'RGC1013-03', 'PRI4015-02', 'EGC7026-06'], ['CSC4020-01', 'PRI4023-02', 'RGC1013-03', 'PRI4027-01', 'RGC1053-02', 'EGC4039-02'], ['CSC4020-01', 'EGC7026-01', 'RGC1013-09', 'RGC1053-04', 'PRI4030-04', 'PRI4015-02'], ['CSC4020-01', 'RGC1014-02', 'PRI4041-04', 'PRI4023-02', 'PRI4030-03', 'RGC1053-03'], ['CSC4020-01', 'RGC1011-11', 'EGC7026-01', 'RGC1053-08', 'RGC1084-01', 'PRI4024-04']]
+[[<models.Lecture object at 0x7feeca8773d0>, <models.Lecture object at 0x7feeca875db0>, <models.Lecture object at 0x7feeca874490>, <models.Lecture object at 0x7feeca875ae0>, <models.Lecture object at 0x7feeca8750f0>, <models.Lecture object at 0x7feeca875240>], [<models.Lecture object at 0x7feeca8773d0>, <models.Lecture object at 0x7feeca875db0>, <models.Lecture object at 0x7feeca875ae0>, <models.Lecture object at 0x7feeca875d80>, <models.Lecture object at 0x7feeca877f40>, <models.Lecture object at 0x7feeca877b20>], [<models.Lecture object at 0x7feeca8773d0>, <models.Lecture object at 0x7feeca8750c0>, <models.Lecture object at 0x7feeca876f50>, <models.Lecture object at 0x7feeca876080>, <models.Lecture object at 0x7feeca8770d0>, <models.Lecture object at 0x7feeca8750f0>], [<models.Lecture object at 0x7feeca8773d0>, <models.Lecture object at 0x7feeca8751b0>, <models.Lecture object at 0x7feeca876110>, <models.Lecture object at 0x7feeca875db0>, <models.Lecture object at 0x7feeca875b70>, <models.Lecture object at 0x7feeca876050>], [<models.Lecture object at 0x7feeca8773d0>, <models.Lecture object at 0x7feeca876950>, <models.Lecture object at 0x7feeca8750c0>, <models.Lecture object at 0x7feeca876b00>, <models.Lecture object at 0x7feeca874250>, <models.Lecture object at 0x7feeca874b50>]]
+INFO:     39.7.230.130:62131 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['CSC4020-01', 'EGC7026-06', 'RGC1014-02', 'PRI4025-01', 'PRI4033-02', 'RGC1053-05'], ['CSC4020-01', 'RGC1013-14', 'PRI4015-02', 'EGC7026-06', 'RGC1053-04', 'PRI4023-01'], ['CSC4020-01', 'RGC1013-16', 'EGC4039-02', 'PRI4023-02', 'PRI4024-02', 'RGC1053-03'], ['CSC4020-01', 'RGC1012-02', 'PRI4024-01', 'RGC1053-07', 'EGC7026-02', 'PRI4015-02'], ['CSC4020-01', 'EGC7026-06', 'RGC1085-03', 'RGC1053-06', 'PRI4023-04', 'PRI4015-01']]
+[['PRI4030-03', 'RGC1013-17', 'PRI4033-01', 'RGC1084-27', 'RGC1053-08', 'EGC4039-02'], ['RGC1014-02', 'RGC1085-13', 'PRI4030-02', 'PRI4024-03', 'RGC1053-01', 'EGC4039-02'], ['PRI4030-01', 'RGC1085-09', 'RGC1010-13', 'PRI4027-02', 'RGC1053-08', 'EGC4039-02'], ['RGC1084-03', 'PRI4025-01', 'RGC1010-07', 'PRI4023-04', 'RGC1053-03', 'PRI4041-01'], ['EGC7026-01', 'PRI4025-04', 'RGC1010-18', 'PRI4027-01', 'RGC1084-04', 'RGC1053-05']]
+[[<models.Lecture object at 0x7feecbcd1330>, <models.Lecture object at 0x7feecbceb9d0>, <models.Lecture object at 0x7feecbcd2200>, <models.Lecture object at 0x7feecbceb010>, <models.Lecture object at 0x7feecbce9360>, <models.Lecture object at 0x7feecbcebac0>], [<models.Lecture object at 0x7feecbcd1330>, <models.Lecture object at 0x7feecbceb580>, <models.Lecture object at 0x7feecbcd20b0>, <models.Lecture object at 0x7feecbceb9d0>, <models.Lecture object at 0x7feecbceb520>, <models.Lecture object at 0x7feeca5ff640>], [<models.Lecture object at 0x7feecbcd1330>, <models.Lecture object at 0x7feeca5ff5e0>, <models.Lecture object at 0x7feeca5fd630>, <models.Lecture object at 0x7feeca5fd180>, <models.Lecture object at 0x7feeca5ff580>, <models.Lecture object at 0x7feeca5fd4e0>], [<models.Lecture object at 0x7feecbcd1330>, <models.Lecture object at 0x7feeca5fdcc0>, <models.Lecture object at 0x7feeca5feda0>, <models.Lecture object at 0x7feeca5fdc90>, <models.Lecture object at 0x7feeca5ff5b0>, <models.Lecture object at 0x7feecbcd20b0>], [<models.Lecture object at 0x7feecbcd1330>, <models.Lecture object at 0x7feecbceb9d0>, <models.Lecture object at 0x7feeca5fcdf0>, <models.Lecture object at 0x7feeca5ffb80>, <models.Lecture object at 0x7feeca5fd8d0>, <models.Lecture object at 0x7feeca5ffd30>]]
+INFO:     39.7.230.130:62131 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[[<models.Lecture object at 0x7feecbcd1390>, <models.Lecture object at 0x7feeca5ff970>, <models.Lecture object at 0x7feeca5fe380>, <models.Lecture object at 0x7feeca5fd7e0>, <models.Lecture object at 0x7feeca5fdff0>, <models.Lecture object at 0x7feeca5fccd0>], [<models.Lecture object at 0x7feeca5fdd80>, <models.Lecture object at 0x7feeca5fe410>, <models.Lecture object at 0x7feeca5ff6d0>, <models.Lecture object at 0x7feeca5fdf60>, <models.Lecture object at 0x7feeca5ffca0>, <models.Lecture object at 0x7feeca5fccd0>], [<models.Lecture object at 0x7feeca5fdcf0>, <models.Lecture object at 0x7feeca5fd690>, <models.Lecture object at 0x7feeca5ff0d0>, <models.Lecture object at 0x7feeca5fdf90>, <models.Lecture object at 0x7feeca5fdff0>, <models.Lecture object at 0x7feeca5fccd0>], [<models.Lecture object at 0x7feeca5fcd90>, <models.Lecture object at 0x7feecbceb220>, <models.Lecture object at 0x7feecbcd35e0>, <models.Lecture object at 0x7feecbcd1630>, <models.Lecture object at 0x7feecbceb070>, <models.Lecture object at 0x7feecbcd0b20>], [<models.Lecture object at 0x7feecbceb9d0>, <models.Lecture object at 0x7feecbcd1b40>, <models.Lecture object at 0x7feecbce90f0>, <models.Lecture object at 0x7feecbcd10f0>, <models.Lecture object at 0x7feecbce9180>, <models.Lecture object at 0x7feecbcd1330>]]
+INFO:     210.94.220.228:51388 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['RGC1084-17', 'RGC1013-21', 'PRI4024-02', 'PRI4033-01', 'EGC7026-02', 'RGC1053-02'], ['RGC1010-08', 'PRI4025-03', 'PRI4024-03', 'RGC1084-19', 'EGC7026-03', 'RGC1053-07'], ['RGC1011-05', 'RGC1084-23', 'PRI4030-04', 'PRI4023-03', 'EGC4039-01', 'RGC1053-01'], ['PRI4015-01', 'RGC1084-19', 'RGC1013-01', 'RGC1053-02', 'PRI4025-04', 'PRI4041-05'], ['RGC1085-11', 'PRI4033-02', 'RGC1014-18', 'RGC1053-01', 'PRI4024-03', 'PRI4041-01']]
+[['RGC1013-21', 'RGC1085-11', 'PRI4030-04', 'EGC7026-05', 'PRI4024-03', 'RGC1053-03'], ['RGC1014-16', 'PRI4030-01', 'RGC1053-02', 'RGC1084-02', 'PRI4027-01', 'PRI4041-01'], ['RGC1010-16', 'PRI4041-03', 'PRI4024-03', 'RGC1084-28', 'PRI4023-04', 'RGC1053-03'], ['RGC1084-28', 'RGC1011-04', 'PRI4015-02', 'PRI4041-03', 'PRI4030-03', 'RGC1053-05'], ['RGC1011-17', 'RGC1053-03', 'RGC1085-24', 'PRI4023-02', 'PRI4027-02', 'EGC7026-05']]
+[[<models.Lecture object at 0x7feeca6d19f0>, <models.Lecture object at 0x7feecbceb250>, <models.Lecture object at 0x7feeca6d3820>, <models.Lecture object at 0x7feeca6d2230>, <models.Lecture object at 0x7feeca857fa0>, <models.Lecture object at 0x7feeca857ee0>], [<models.Lecture object at 0x7feeca6d11e0>, <models.Lecture object at 0x7feeca6d2890>, <models.Lecture object at 0x7feeca6d2500>, <models.Lecture object at 0x7feeca6d2800>, <models.Lecture object at 0x7feeca6d1c30>, <models.Lecture object at 0x7feeca6d0e20>], [<models.Lecture object at 0x7feeca877550>, <models.Lecture object at 0x7feeca857e50>, <models.Lecture object at 0x7feeca8773d0>, <models.Lecture object at 0x7feeca6d3640>, <models.Lecture object at 0x7feeca6d06a0>, <models.Lecture object at 0x7feeca6d23e0>], [<models.Lecture object at 0x7feeca6d1150>, <models.Lecture object at 0x7feeca6d2800>, <models.Lecture object at 0x7feeca8743a0>, <models.Lecture object at 0x7feeca857ee0>, <models.Lecture object at 0x7feeca876410>, <models.Lecture object at 0x7feeca877a30>], [<models.Lecture object at 0x7feeca876a10>, <models.Lecture object at 0x7feecbcd0280>, <models.Lecture object at 0x7feeca875ed0>, <models.Lecture object at 0x7feeca6d23e0>, <models.Lecture object at 0x7feeca6d2500>, <models.Lecture object at 0x7feeca877490>]]
+INFO:     106.101.130.141:36899 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[[<models.Lecture object at 0x7feeca875d50>, <models.Lecture object at 0x7feeca876260>, <models.Lecture object at 0x7feecbcd0c10>, <models.Lecture object at 0x7feecbc66e60>, <models.Lecture object at 0x7feeca876680>, <models.Lecture object at 0x7feeca8766b0>], [<models.Lecture object at 0x7feecbcd0fd0>, <models.Lecture object at 0x7feeca875e40>, <models.Lecture object at 0x7feeca876bc0>, <models.Lecture object at 0x7feeca876c20>, <models.Lecture object at 0x7feeca875e70>, <models.Lecture object at 0x7feecbcd1600>], [<models.Lecture object at 0x7feecbcd2200>, <models.Lecture object at 0x7feeca8764a0>, <models.Lecture object at 0x7feeca876680>, <models.Lecture object at 0x7feecbcd0610>, <models.Lecture object at 0x7feecbcd19f0>, <models.Lecture object at 0x7feeca8766b0>], [<models.Lecture object at 0x7feecbcd0610>, <models.Lecture object at 0x7feeca877490>, <models.Lecture object at 0x7feeca876230>, <models.Lecture object at 0x7feeca8764a0>, <models.Lecture object at 0x7feeca8750f0>, <models.Lecture object at 0x7feecbcd1a80>], [<models.Lecture object at 0x7feeca877400>, <models.Lecture object at 0x7feeca8766b0>, <models.Lecture object at 0x7feeca875900>, <models.Lecture object at 0x7feecbcd20b0>, <models.Lecture object at 0x7feeca8744f0>, <models.Lecture object at 0x7feecbc66e60>]]
+INFO:     210.94.220.228:51388 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['CSC4020-01', 'RGC1053-04', 'RGC1014-02', 'PRI4024-02', 'PRI4025-04', 'EGC7026-04'], ['CSC4020-01', 'PRI4023-03', 'PRI4025-03', 'RGC1012-01', 'RGC1053-04', 'EGC4039-03'], ['CSC4020-01', 'RGC1053-01', 'RGC1014-16', 'PRI4015-02', 'EGC7026-04', 'PRI4024-04'], ['CSC4020-01', 'RGC1011-20', 'EGC4039-01', 'RGC1053-01', 'PRI4033-02', 'PRI4024-04'], ['CSC4020-01', 'PRI4023-04', 'RGC1014-06', 'PRI4030-03', 'RGC1053-07', 'EGC7026-05']]
+[[<models.Lecture object at 0x7feecbce9780>, <models.Lecture object at 0x7feecbce90f0>, <models.Lecture object at 0x7feeca857dc0>, <models.Lecture object at 0x7feecbcebaf0>, <models.Lecture object at 0x7feecbce9c90>, <models.Lecture object at 0x7feecbceb220>], [<models.Lecture object at 0x7feecbce9780>, <models.Lecture object at 0x7feecbceb550>, <models.Lecture object at 0x7feecbce9180>, <models.Lecture object at 0x7feecbceb4c0>, <models.Lecture object at 0x7feecbce90f0>, <models.Lecture object at 0x7feecbceb010>], [<models.Lecture object at 0x7feecbce9780>, <models.Lecture object at 0x7feecbceb610>, <models.Lecture object at 0x7feeca5fe620>, <models.Lecture object at 0x7feeca5ff310>, <models.Lecture object at 0x7feecbceb220>, <models.Lecture object at 0x7feeca5fdbd0>], [<models.Lecture object at 0x7feecbce9780>, <models.Lecture object at 0x7feeca5fe800>, <models.Lecture object at 0x7feeca5fdc30>, <models.Lecture object at 0x7feecbceb610>, <models.Lecture object at 0x7feeca5fe2c0>, <models.Lecture object at 0x7feeca5fdbd0>], [<models.Lecture object at 0x7feecbce9780>, <models.Lecture object at 0x7feeca5fe020>, <models.Lecture object at 0x7feeca5fd9c0>, <models.Lecture object at 0x7feeca5ff1c0>, <models.Lecture object at 0x7feeca5fee00>, <models.Lecture object at 0x7feeca5fe5f0>]]
+INFO:     39.7.230.130:62132 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['CSC4020-01', 'RGC1014-04', 'PRI4033-02', 'PRI4041-04', 'PRI4023-01', 'RGC1053-04'], ['CSC4020-01', 'EGC7026-01', 'RGC1053-08', 'PRI4023-03', 'PRI4030-03', 'RGC1084-25'], ['CSC4020-01', 'RGC1010-04', 'PRI4041-05', 'RGC1053-06', 'PRI4027-02', 'PRI4024-01'], ['CSC4020-01', 'RGC1013-11', 'RGC1053-04', 'PRI4024-04', 'PRI4023-03', 'EGC7026-01'], ['CSC4020-01', 'RGC1013-05', 'EGC7026-02', 'RGC1053-08', 'RGC1084-17', 'PRI4023-04']]
+[['RGC1011-09', 'PRI4033-01', 'EGC5033-02', 'RGC1053-05', 'RGC1084-22', 'PRI4041-05'], ['RGC1084-11', 'RGC1010-05', 'EGC7026-05', 'PRI4024-04', 'RGC1053-07', 'PRI4027-01'], ['RGC1010-16', 'RGC1085-17', 'RGC1053-08', 'PRI4023-06', 'PRI4027-02', 'PRI4041-02'], ['PRI4041-03', 'RGC1013-16', 'RGC1053-03', 'PRI4030-02', 'EGC5033-02', 'RGC1084-02'], ['RGC1085-28', 'RGC1012-09', 'PRI4023-04', 'PRI4015-02', 'RGC1053-01', 'EGC7026-02']]
+[[<models.Lecture object at 0x7feecbcd1d50>, <models.Lecture object at 0x7feeca7e8910>, <models.Lecture object at 0x7feeca6d3370>, <models.Lecture object at 0x7feeca8c50c0>, <models.Lecture object at 0x7feeca5fd0f0>, <models.Lecture object at 0x7feeca875ae0>], [<models.Lecture object at 0x7feecbcd1d50>, <models.Lecture object at 0x7feeca874f70>, <models.Lecture object at 0x7feeca876c80>, <models.Lecture object at 0x7feeca875300>, <models.Lecture object at 0x7feeca784ee0>, <models.Lecture object at 0x7feeca876920>], [<models.Lecture object at 0x7feecbcd1d50>, <models.Lecture object at 0x7feeca5fdf60>, <models.Lecture object at 0x7feeca5ff0d0>, <models.Lecture object at 0x7feeca5fe800>, <models.Lecture object at 0x7feeca5ffe50>, <models.Lecture object at 0x7feeca5fd090>], [<models.Lecture object at 0x7feecbcd1d50>, <models.Lecture object at 0x7feeca784b20>, <models.Lecture object at 0x7feeca875ae0>, <models.Lecture object at 0x7feeca787970>, <models.Lecture object at 0x7feeca875300>, <models.Lecture object at 0x7feeca874f70>], [<models.Lecture object at 0x7feecbcd1d50>, <models.Lecture object at 0x7feeca874220>, <models.Lecture object at 0x7feeca8779d0>, <models.Lecture object at 0x7feeca876c80>, <models.Lecture object at 0x7feeca876950>, <models.Lecture object at 0x7feeca876ec0>]]
+INFO:     39.7.230.130:62132 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[[<models.Lecture object at 0x7feeca7877f0>, <models.Lecture object at 0x7feeca787f40>, <models.Lecture object at 0x7feeca785de0>, <models.Lecture object at 0x7feeca785c30>, <models.Lecture object at 0x7feeca786050>, <models.Lecture object at 0x7feeca8762f0>], [<models.Lecture object at 0x7feeca875f60>, <models.Lecture object at 0x7feeca877f40>, <models.Lecture object at 0x7feeca875900>, <models.Lecture object at 0x7feeca784d60>, <models.Lecture object at 0x7feeca876bf0>, <models.Lecture object at 0x7feeca787eb0>], [<models.Lecture object at 0x7feecbce9780>, <models.Lecture object at 0x7feecbce9180>, <models.Lecture object at 0x7feecbceb010>, <models.Lecture object at 0x7feeca7878b0>, <models.Lecture object at 0x7feecbceb640>, <models.Lecture object at 0x7feeca785e40>], [<models.Lecture object at 0x7feecbceb1c0>, <models.Lecture object at 0x7feecbceb520>, <models.Lecture object at 0x7feeca787e20>, <models.Lecture object at 0x7feecbceb280>, <models.Lecture object at 0x7feeca785de0>, <models.Lecture object at 0x7feecbceb5b0>], [<models.Lecture object at 0x7feeca784a90>, <models.Lecture object at 0x7feecbce9c90>, <models.Lecture object at 0x7feeca787820>, <models.Lecture object at 0x7feecbceb4c0>, <models.Lecture object at 0x7feeca787880>, <models.Lecture object at 0x7feecbceb550>]]
+INFO:     210.94.220.228:51392 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51397 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51396 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51399 - "GET /images/face3.png HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51394 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51398 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51395 - "GET /images/face2.png HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51396 - "GET /images/face1.png HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51401 - "GET /lecture/list/?lecture_name=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4 HTTP/1.1" 200 OK
+INFO:     210.94.220.228:51401 - "GET /lecture/list/?lecture_name=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4 HTTP/1.1" 200 OK
+[['CSC4020-01', 'RGC1012-15', 'PRI4024-03', 'PRI4015-02', 'RGC1053-07', 'EGC7026-04'], ['CSC4020-01', 'RGC1011-19', 'PRI4027-01', 'PRI4033-02', 'RGC1053-07', 'EGC7026-05'], ['CSC4020-01', 'EGC7026-06', 'RGC1085-21', 'RGC1053-05', 'RGC1014-03', 'PRI4023-02'], ['CSC4020-01', 'PRI4041-04', 'RGC1084-17', 'RGC1053-03', 'RGC1011-13', 'PRI4027-02'], ['CSC4020-01', 'RGC1011-12', 'RGC1084-21', 'PRI4041-05', 'RGC1053-05', 'PRI4015-02']]
+[[<models.Lecture object at 0x7feeca5fd750>, <models.Lecture object at 0x7feeca5ff250>, <models.Lecture object at 0x7feeca5fe560>, <models.Lecture object at 0x7feeca5fc250>, <models.Lecture object at 0x7feeca5ff7f0>, <models.Lecture object at 0x7feeca5fc430>], [<models.Lecture object at 0x7feeca5fd750>, <models.Lecture object at 0x7feeca5fcb20>, <models.Lecture object at 0x7feeca5fc790>, <models.Lecture object at 0x7feeca5ff310>, <models.Lecture object at 0x7feeca5ff7f0>, <models.Lecture object at 0x7feeca5ff520>], [<models.Lecture object at 0x7feeca5fd750>, <models.Lecture object at 0x7feeca5fc7c0>, <models.Lecture object at 0x7feeca5ffd90>, <models.Lecture object at 0x7feeca5fd8a0>, <models.Lecture object at 0x7feeca5fdcf0>, <models.Lecture object at 0x7feeca5ff7c0>], [<models.Lecture object at 0x7feeca5fd750>, <models.Lecture object at 0x7feeca5fd4b0>, <models.Lecture object at 0x7feeca5fc400>, <models.Lecture object at 0x7feeca5fdb10>, <models.Lecture object at 0x7feeca5fd7b0>, <models.Lecture object at 0x7feeca5ff850>], [<models.Lecture object at 0x7feeca5fd750>, <models.Lecture object at 0x7feeca5fe680>, <models.Lecture object at 0x7feeca5fc670>, <models.Lecture object at 0x7feeca5fc070>, <models.Lecture object at 0x7feeca5fd8a0>, <models.Lecture object at 0x7feeca5fc250>]]
+INFO:     210.94.220.228:51401 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['CSC4020-01', 'RGC1012-02', 'RGC1053-02', 'EGC7026-06', 'PRI4030-04', 'PRI4024-03'], ['CSC4020-01', 'PRI4025-03', 'RGC1013-10', 'EGC5033-02', 'PRI4041-05', 'RGC1053-02'], ['CSC4020-01', 'PRI4030-04', 'RGC1011-15', 'RGC1053-03', 'EGC7026-04', 'PRI4024-01'], ['CSC4020-01', 'PRI4025-03', 'RGC1014-01', 'RGC1053-09', 'RGC1085-20', 'EGC4039-03'], ['CSC4020-01', 'RGC1012-10', 'RGC1053-06', 'PRI4015-02', 'RGC1085-02', 'EGC4039-03']]
+[[<models.Lecture object at 0x7feecbcd1de0>, <models.Lecture object at 0x7feecbcd1a50>, <models.Lecture object at 0x7feecbcd1150>, <models.Lecture object at 0x7feecbcd2200>, <models.Lecture object at 0x7feecbcd1c90>, <models.Lecture object at 0x7feecbcd2260>], [<models.Lecture object at 0x7feecbcd1de0>, <models.Lecture object at 0x7feecbcd1780>, <models.Lecture object at 0x7feecbcd1030>, <models.Lecture object at 0x7feecbcd1660>, <models.Lecture object at 0x7feecbcd1720>, <models.Lecture object at 0x7feecbcd1150>], [<models.Lecture object at 0x7feecbcd1de0>, <models.Lecture object at 0x7feecbcd1c90>, <models.Lecture object at 0x7feecbcd1420>, <models.Lecture object at 0x7feecbcd1cc0>, <models.Lecture object at 0x7feecbcd2140>, <models.Lecture object at 0x7feecbcd1c30>], [<models.Lecture object at 0x7feecbcd1de0>, <models.Lecture object at 0x7feecbcd1780>, <models.Lecture object at 0x7feeca874220>, <models.Lecture object at 0x7feeca877dc0>, <models.Lecture object at 0x7feeca877ee0>, <models.Lecture object at 0x7feeca876110>], [<models.Lecture object at 0x7feecbcd1de0>, <models.Lecture object at 0x7feeca8779d0>, <models.Lecture object at 0x7feeca877a30>, <models.Lecture object at 0x7feeca875c00>, <models.Lecture object at 0x7feeca875db0>, <models.Lecture object at 0x7feeca876110>]]
+INFO:     39.7.230.130:62133 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['CSC4020-01', 'PRI4027-01', 'PRI4030-04', 'RGC1053-02', 'RGC1010-11', 'PRI4041-04'], ['CSC4020-01', 'RGC1014-12', 'PRI4024-03', 'EGC4039-01', 'PRI4025-04', 'RGC1053-05'], ['CSC4020-01', 'RGC1012-15', 'RGC1053-02', 'EGC4039-03', 'PRI4027-01', 'PRI4030-04'], ['CSC4020-01', 'PRI4033-02', 'RGC1085-17', 'PRI4041-03', 'RGC1053-03', 'PRI4024-01'], ['CSC4020-01', 'RGC1084-03', 'RGC1013-12', 'PRI4041-04', 'RGC1053-09', 'PRI4027-02']]
+[[<models.Lecture object at 0x7feeca784760>, <models.Lecture object at 0x7feeca7875e0>, <models.Lecture object at 0x7feeca7868c0>, <models.Lecture object at 0x7feeca787f10>, <models.Lecture object at 0x7feeca787fa0>, <models.Lecture object at 0x7feeca787610>], [<models.Lecture object at 0x7feeca784760>, <models.Lecture object at 0x7feeca7859c0>, <models.Lecture object at 0x7feeca785ab0>, <models.Lecture object at 0x7feeca785480>, <models.Lecture object at 0x7feeca785570>, <models.Lecture object at 0x7feeca787040>], [<models.Lecture object at 0x7feeca784760>, <models.Lecture object at 0x7feeca784d00>, <models.Lecture object at 0x7feeca787f10>, <models.Lecture object at 0x7feeca7857b0>, <models.Lecture object at 0x7feeca7875e0>, <models.Lecture object at 0x7feeca7868c0>], [<models.Lecture object at 0x7feeca784760>, <models.Lecture object at 0x7feeca785180>, <models.Lecture object at 0x7feeca7841c0>, <models.Lecture object at 0x7feeca787070>, <models.Lecture object at 0x7feeca786b00>, <models.Lecture object at 0x7feeca786fe0>], [<models.Lecture object at 0x7feeca784760>, <models.Lecture object at 0x7feeca787820>, <models.Lecture object at 0x7feeca785e10>, <models.Lecture object at 0x7feeca787610>, <models.Lecture object at 0x7feeca784dc0>, <models.Lecture object at 0x7feeca785e40>]]
+INFO:     39.7.230.130:62134 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['CSC4020-01', 'RGC1010-12', 'PRI4024-01', 'PRI4015-01', 'EGC4039-03', 'RGC1053-08'], ['CSC4020-01', 'RGC1053-08', 'RGC1011-19', 'PRI4015-01', 'RGC1085-06', 'EGC7026-04'], ['CSC4020-01', 'RGC1011-09', 'RGC1084-07', 'EGC7026-06', 'RGC1053-06', 'PRI4014-03'], ['CSC4020-01', 'RGC1012-15', 'PRI4041-04', 'RGC1084-19', 'RGC1053-08', 'PRI4024-02'], ['CSC4020-01', 'RGC1053-08', 'RGC1010-09', 'EGC7026-06', 'RGC1084-04', 'EGC5033-02']]
+[[<models.Lecture object at 0x7feecbceb070>, <models.Lecture object at 0x7feecbce9210>, <models.Lecture object at 0x7feeca7ebe50>, <models.Lecture object at 0x7feeca7e9a20>, <models.Lecture object at 0x7feeca7eba00>, <models.Lecture object at 0x7feeca7e9e40>], [<models.Lecture object at 0x7feecbceb070>, <models.Lecture object at 0x7feeca7e9e40>, <models.Lecture object at 0x7feeca7e8d90>, <models.Lecture object at 0x7feeca7e9a20>, <models.Lecture object at 0x7feeca7e9ed0>, <models.Lecture object at 0x7feeca7eb9d0>], [<models.Lecture object at 0x7feecbceb070>, <models.Lecture object at 0x7feeca7e93c0>, <models.Lecture object at 0x7feeca7e86d0>, <models.Lecture object at 0x7feeca7eb8b0>, <models.Lecture object at 0x7feeca7e9810>, <models.Lecture object at 0x7feeca7e9cc0>], [<models.Lecture object at 0x7feecbceb070>, <models.Lecture object at 0x7feeca7e8d00>, <models.Lecture object at 0x7feeca7e81f0>, <models.Lecture object at 0x7feeca7eb940>, <models.Lecture object at 0x7feeca7e9e40>, <models.Lecture object at 0x7feeca7e8ca0>], [<models.Lecture object at 0x7feecbceb070>, <models.Lecture object at 0x7feeca7e9e40>, <models.Lecture object at 0x7feeca7e8460>, <models.Lecture object at 0x7feeca7eb8b0>, <models.Lecture object at 0x7feeca7ea650>, <models.Lecture object at 0x7feeca7e9a80>]]
+INFO:     39.7.230.130:62134 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['CSC4020-01', 'RGC1011-04', 'PRI4015-01', 'EGC7026-04', 'RGC1053-08', 'PRI4024-01'], ['CSC4020-01', 'EGC4039-02', 'PRI4024-01', 'PRI4015-01', 'RGC1010-03', 'RGC1053-05'], ['CSC4020-01', 'RGC1012-17', 'PRI4041-05', 'PRI4023-04', 'RGC1053-09', 'PRI4024-02'], ['CSC4020-01', 'RGC1084-22', 'EGC4039-02', 'PRI4025-01', 'RGC1053-08', 'PRI4024-03'], ['CSC4020-01', 'EGC7026-05', 'RGC1012-08', 'PRI4025-03', 'PRI4027-02', 'RGC1053-02']]
+[[<models.Lecture object at 0x7feecbcd21d0>, <models.Lecture object at 0x7feecbcd21a0>, <models.Lecture object at 0x7feecbcd1360>, <models.Lecture object at 0x7feecbcd1ba0>, <models.Lecture object at 0x7feecbcd13f0>, <models.Lecture object at 0x7feecbcd1750>], [<models.Lecture object at 0x7feecbcd21d0>, <models.Lecture object at 0x7feecbcd2140>, <models.Lecture object at 0x7feecbcd1750>, <models.Lecture object at 0x7feecbcd1360>, <models.Lecture object at 0x7feecbcd1c60>, <models.Lecture object at 0x7feecbcd1240>], [<models.Lecture object at 0x7feecbcd21d0>, <models.Lecture object at 0x7feecbcd1cc0>, <models.Lecture object at 0x7feecbcd0fa0>, <models.Lecture object at 0x7feecbcd0c10>, <models.Lecture object at 0x7feecbcd0250>, <models.Lecture object at 0x7feecbcd1c30>], [<models.Lecture object at 0x7feecbcd21d0>, <models.Lecture object at 0x7feecbcd1cf0>, <models.Lecture object at 0x7feecbcd2140>, <models.Lecture object at 0x7feecbcd1960>, <models.Lecture object at 0x7feecbcd13f0>, <models.Lecture object at 0x7feecbcd1b70>], [<models.Lecture object at 0x7feecbcd21d0>, <models.Lecture object at 0x7feeca5fe470>, <models.Lecture object at 0x7feeca5fed70>, <models.Lecture object at 0x7feeca5fe740>, <models.Lecture object at 0x7feeca5fedd0>, <models.Lecture object at 0x7feeca5fcc70>]]
+INFO:     39.7.230.130:62134 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['CSC4020-01', 'PRI4025-04', 'RGC1011-02', 'PRI4024-01', 'EGC7026-05', 'RGC1053-04'], ['CSC4020-01', 'PRI4024-01', 'RGC1085-25', 'RGC1053-09', 'PRI4030-03', 'EGC4039-03'], ['CSC4020-01', 'RGC1084-16', 'PRI4023-01', 'PRI4015-02', 'RGC1053-01', 'PRI4041-03'], ['CSC4020-01', 'RGC1053-03', 'RGC1012-12', 'PRI4025-04', 'PRI4023-01', 'EGC7026-02'], ['CSC4020-01', 'RGC1085-18', 'RGC1014-01', 'EGC7026-01', 'RGC1053-07', 'PRI4014-07']]
+[[<models.Lecture object at 0x7feecbcebaf0>, <models.Lecture object at 0x7feecbce9d50>, <models.Lecture object at 0x7feecbce9780>, <models.Lecture object at 0x7feecbcea4a0>, <models.Lecture object at 0x7feecbceb040>, <models.Lecture object at 0x7feeca5ff5e0>], [<models.Lecture object at 0x7feecbcebaf0>, <models.Lecture object at 0x7feecbcea4a0>, <models.Lecture object at 0x7feeca5fd8a0>, <models.Lecture object at 0x7feeca5fe590>, <models.Lecture object at 0x7feeca5fda20>, <models.Lecture object at 0x7feeca5ffa90>], [<models.Lecture object at 0x7feecbcebaf0>, <models.Lecture object at 0x7feeca5fd270>, <models.Lecture object at 0x7feeca5ffbe0>, <models.Lecture object at 0x7feeca5fd9c0>, <models.Lecture object at 0x7feeca5ff670>, <models.Lecture object at 0x7feeca5ffbb0>], [<models.Lecture object at 0x7feecbcebaf0>, <models.Lecture object at 0x7feeca5fd990>, <models.Lecture object at 0x7feeca5ffa30>, <models.Lecture object at 0x7feecbce9d50>, <models.Lecture object at 0x7feeca5ffbe0>, <models.Lecture object at 0x7feeca5fc430>], [<models.Lecture object at 0x7feecbcebaf0>, <models.Lecture object at 0x7feeca5fd780>, <models.Lecture object at 0x7feeca5ff340>, <models.Lecture object at 0x7feeca5ffca0>, <models.Lecture object at 0x7feeca5fdcc0>, <models.Lecture object at 0x7feeca5fe4a0>]]
+INFO:     39.7.230.130:62134 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['RGC1085-12', 'PRI4023-02', 'RGC1012-16', 'RGC1053-09', 'EGC7026-02', 'PRI4025-02'], ['RGC1011-12', 'RGC1084-16', 'PRI4027-01', 'PRI4023-02', 'RGC1053-09', 'EGC4039-03'], ['RGC1084-23', 'RGC1010-10', 'PRI4023-04', 'RGC1053-09', 'PRI4041-01', 'EGC5033-02'], ['RGC1013-10', 'RGC1053-03', 'PRI4033-01', 'RGC1085-11', 'PRI4041-03', 'PRI4023-01'], ['EGC4039-02', 'RGC1010-01', 'PRI4030-04', 'PRI4033-01', 'RGC1053-05', 'RGC1084-13']]
+[[<models.Lecture object at 0x7feecbcd1600>, <models.Lecture object at 0x7feecbcd1720>, <models.Lecture object at 0x7feecbcd0520>, <models.Lecture object at 0x7feecbcd1a20>, <models.Lecture object at 0x7feecbcd1ba0>, <models.Lecture object at 0x7feecbcd0280>], [<models.Lecture object at 0x7feecbcd21d0>, <models.Lecture object at 0x7feecbcd20b0>, <models.Lecture object at 0x7feecbcd2140>, <models.Lecture object at 0x7feecbcd1720>, <models.Lecture object at 0x7feecbcd1a20>, <models.Lecture object at 0x7feecbcd36a0>], [<models.Lecture object at 0x7feecbcd1d20>, <models.Lecture object at 0x7feecbcd1240>, <models.Lecture object at 0x7feecbcd1750>, <models.Lecture object at 0x7feecbcd1a20>, <models.Lecture object at 0x7feecbcd0610>, <models.Lecture object at 0x7feecbcd20e0>], [<models.Lecture object at 0x7feecbcd1c60>, <models.Lecture object at 0x7feecbcd1630>, <models.Lecture object at 0x7feecbcd3520>, <models.Lecture object at 0x7feecbcd0bb0>, <models.Lecture object at 0x7feecbcd11b0>, <models.Lecture object at 0x7feecbcd3850>], [<models.Lecture object at 0x7feecbcd1d50>, <models.Lecture object at 0x7feeca877a30>, <models.Lecture object at 0x7feeca876590>, <models.Lecture object at 0x7feecbcd3520>, <models.Lecture object at 0x7feeca877ee0>, <models.Lecture object at 0x7feeca876680>]]
+INFO:     210.94.220.228:51407 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['RGC1012-03', 'RGC1084-10', 'RGC1053-01', 'EGC4039-03', 'PRI4030-03', 'PRI4024-03'], ['PRI4023-04', 'RGC1084-16', 'PRI4024-03', 'RGC1012-01', 'RGC1053-01', 'EGC4039-02'], ['RGC1012-08', 'PRI4027-01', 'PRI4023-04', 'RGC1084-10', 'RGC1053-03', 'EGC4039-03'], ['RGC1012-10', 'RGC1085-28', 'PRI4041-05', 'RGC1053-07', 'EGC5033-02', 'PRI4027-01'], ['EGC5033-01', 'RGC1084-26', 'RGC1013-02', 'PRI4015-01', 'RGC1053-09', 'EGC7026-05']]
+[[<models.Lecture object at 0x7feeca8c4a30>, <models.Lecture object at 0x7feeca8c4190>, <models.Lecture object at 0x7feeca8c5120>, <models.Lecture object at 0x7feeca8c53c0>, <models.Lecture object at 0x7feeca8c7a90>, <models.Lecture object at 0x7feeca8c40a0>], [<models.Lecture object at 0x7feeca8c7310>, <models.Lecture object at 0x7feeca8c44c0>, <models.Lecture object at 0x7feeca8c40a0>, <models.Lecture object at 0x7feeca8c5cf0>, <models.Lecture object at 0x7feeca8c5120>, <models.Lecture object at 0x7feeca8c5960>], [<models.Lecture object at 0x7feeca8c4a90>, <models.Lecture object at 0x7feeca8c43d0>, <models.Lecture object at 0x7feeca8c7310>, <models.Lecture object at 0x7feeca8c4190>, <models.Lecture object at 0x7feeca8c72e0>, <models.Lecture object at 0x7feeca8c53c0>], [<models.Lecture object at 0x7feeca8c7d00>, <models.Lecture object at 0x7feeca8c7280>, <models.Lecture object at 0x7feeca8c4400>, <models.Lecture object at 0x7feeca8c4b50>, <models.Lecture object at 0x7feeca8c6b90>, <models.Lecture object at 0x7feeca8c43d0>], [<models.Lecture object at 0x7feeca8c4fa0>, <models.Lecture object at 0x7feeca8c7970>, <models.Lecture object at 0x7feeca8c6ef0>, <models.Lecture object at 0x7feeca8c7040>, <models.Lecture object at 0x7feeca8c7940>, <models.Lecture object at 0x7feeca8c5810>]]
+INFO:     106.101.130.141:40236 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62153 - "GET /lecture/list/?lecture_name=%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62153 - "GET /lecture/list/?lecture_name=%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC HTTP/1.1" 200 OK
+[['CSC4003-01', 'RGC1010-06', 'PRI4015-01', 'PRI4024-02', 'PRI4041-05', 'RGC1053-03'], ['CSC4003-01', 'RGC1014-16', 'RGC1053-07', 'PRI4041-02', 'RGC1085-08', 'PRI4033-02'], ['CSC4003-01', 'PRI4041-03', 'RGC1012-13', 'PRI4024-04', 'RGC1085-11', 'RGC1053-05'], ['CSC4003-01', 'PRI4041-05', 'RGC1012-11', 'RGC1085-10', 'PRI4015-02', 'RGC1053-05'], ['CSC4003-01', 'RGC1012-11', 'EGC7026-01', 'PRI4015-01', 'RGC1053-09', 'RGC1084-04']]
+[[<models.Lecture object at 0x7feecbcd0fa0>, <models.Lecture object at 0x7feecbceafe0>, <models.Lecture object at 0x7feecbcd1030>, <models.Lecture object at 0x7feecbceb5e0>, <models.Lecture object at 0x7feecbcd1450>, <models.Lecture object at 0x7feecbceb700>], [<models.Lecture object at 0x7feecbcd0fa0>, <models.Lecture object at 0x7feecbceb550>, <models.Lecture object at 0x7feecbcd1750>, <models.Lecture object at 0x7feecbceb520>, <models.Lecture object at 0x7feecbcd1c60>, <models.Lecture object at 0x7feecbce90f0>], [<models.Lecture object at 0x7feecbcd0fa0>, <models.Lecture object at 0x7feecbceb010>, <models.Lecture object at 0x7feecbcd21a0>, <models.Lecture object at 0x7feecbceb460>, <models.Lecture object at 0x7feecbcd1630>, <models.Lecture object at 0x7feecbceafb0>], [<models.Lecture object at 0x7feecbcd0fa0>, <models.Lecture object at 0x7feecbcd1450>, <models.Lecture object at 0x7feecbcd10f0>, <models.Lecture object at 0x7feecbceb9d0>, <models.Lecture object at 0x7feecbceb4c0>, <models.Lecture object at 0x7feecbceafb0>], [<models.Lecture object at 0x7feecbcd0fa0>, <models.Lecture object at 0x7feecbcd10f0>, <models.Lecture object at 0x7feecbce9180>, <models.Lecture object at 0x7feecbcd1030>, <models.Lecture object at 0x7feecbcd0520>, <models.Lecture object at 0x7feecbcd20e0>]]
+INFO:     39.7.230.130:58449 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['PRI4030-04', 'RGC1084-23', 'RGC1013-17', 'PRI4024-03', 'RGC1053-02', 'EGC7026-03'], ['PRI4041-02', 'RGC1014-07', 'PRI4015-01', 'RGC1085-03', 'PRI4025-04', 'RGC1053-06'], ['RGC1084-17', 'RGC1010-16', 'PRI4023-02', 'PRI4041-02', 'PRI4025-04', 'RGC1053-08'], ['RGC1085-11', 'RGC1014-15', 'PRI4030-04', 'RGC1053-06', 'PRI4023-02', 'EGC7026-02'], ['PRI4024-04', 'RGC1014-14', 'EGC5033-01', 'RGC1084-18', 'RGC1053-09', 'EGC4039-02']]
+[[<models.Lecture object at 0x7feeca874250>, <models.Lecture object at 0x7feeca875c60>, <models.Lecture object at 0x7feeca877a30>, <models.Lecture object at 0x7feeca8779d0>, <models.Lecture object at 0x7feeca874be0>, <models.Lecture object at 0x7feeca8750f0>], [<models.Lecture object at 0x7feeca8750c0>, <models.Lecture object at 0x7feeca8764a0>, <models.Lecture object at 0x7feeca874400>, <models.Lecture object at 0x7feeca875c00>, <models.Lecture object at 0x7feeca875ff0>, <models.Lecture object at 0x7feeca874f70>], [<models.Lecture object at 0x7feeca877f10>, <models.Lecture object at 0x7feeca875d80>, <models.Lecture object at 0x7feeca8773d0>, <models.Lecture object at 0x7feeca8750c0>, <models.Lecture object at 0x7feeca875ff0>, <models.Lecture object at 0x7feeca875900>], [<models.Lecture object at 0x7feeca876590>, <models.Lecture object at 0x7feeca877f40>, <models.Lecture object at 0x7feeca874250>, <models.Lecture object at 0x7feeca874f70>, <models.Lecture object at 0x7feeca8773d0>, <models.Lecture object at 0x7feeca876380>], [<models.Lecture object at 0x7feeca875b40>, <models.Lecture object at 0x7feeca875ae0>, <models.Lecture object at 0x7feeca875000>, <models.Lecture object at 0x7feeca877e50>, <models.Lecture object at 0x7feeca8766e0>, <models.Lecture object at 0x7feeca875120>]]
+INFO:     106.101.130.141:37697 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     106.101.130.141:45415 - "GET / HTTP/1.1" 200 OK
+INFO:     106.101.130.141:45415 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 200 OK
+INFO:     106.101.130.141:38414 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 200 OK
+INFO:     106.101.130.141:38414 - "GET /images/face3.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:45415 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:42585 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:34633 - "GET /images/face1.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:44099 - "GET /images/face2.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:33119 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:33119 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     106.101.130.141:36729 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     106.101.130.141:40455 - "GET /static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2 HTTP/1.1" 200 OK
+[['PRI4023-06', 'PRI4030-01', 'RGC1014-15', 'EGC7026-04', 'RGC1084-02', 'RGC1053-03'], ['EGC7026-06', 'RGC1014-16', 'RGC1085-09', 'RGC1053-06', 'PRI4023-04', 'PRI4024-03'], ['RGC1084-06', 'RGC1014-15', 'PRI4030-02', 'PRI4027-01', 'RGC1053-02', 'PRI4041-05'], ['PRI4025-04', 'RGC1014-12', 'RGC1085-21', 'PRI4030-03', 'RGC1053-07', 'EGC4039-03'], ['RGC1084-11', 'RGC1011-15', 'RGC1053-02', 'EGC7026-06', 'PRI4024-02', 'PRI4023-03']]
+[[<models.Lecture object at 0x7feecbcd1780>, <models.Lecture object at 0x7feecbcd1c30>, <models.Lecture object at 0x7feecbcd1930>, <models.Lecture object at 0x7feecbcd2200>, <models.Lecture object at 0x7feecbcd1390>, <models.Lecture object at 0x7feecbcd0610>], [<models.Lecture object at 0x7feecbcd13f0>, <models.Lecture object at 0x7feecbcd1cf0>, <models.Lecture object at 0x7feecbcd1030>, <models.Lecture object at 0x7feecbcd1d20>, <models.Lecture object at 0x7feecbcd20e0>, <models.Lecture object at 0x7feecbcd3850>], [<models.Lecture object at 0x7feecbcd10f0>, <models.Lecture object at 0x7feecbcd1930>, <models.Lecture object at 0x7feecbcd1a80>, <models.Lecture object at 0x7feecbcd0b20>, <models.Lecture object at 0x7feecbcd35b0>, <models.Lecture object at 0x7feecbcd36a0>], [<models.Lecture object at 0x7feecbcd1cc0>, <models.Lecture object at 0x7feecbcd0a60>, <models.Lecture object at 0x7feecbcd0250>, <models.Lecture object at 0x7feecbcd17e0>, <models.Lecture object at 0x7feeca8c4eb0>, <models.Lecture object at 0x7feeca8c7e80>], [<models.Lecture object at 0x7feeca8c4c40>, <models.Lecture object at 0x7feeca8c4f10>, <models.Lecture object at 0x7feecbcd35b0>, <models.Lecture object at 0x7feecbcd13f0>, <models.Lecture object at 0x7feeca8c46a0>, <models.Lecture object at 0x7feeca8c7d90>]]
+INFO:     106.101.130.141:40455 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     106.101.130.141:41315 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     106.101.130.141:43009 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:45144 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:36870 - "GET /images/face1.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:35105 - "GET /images/face2.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:48713 - "GET /images/face3.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:41315 - "GET /images/main3.png HTTP/1.1" 200 OK
+[['RGC1013-09', 'RGC1085-10', 'EGC7026-06', 'RGC1053-02', 'PRI4025-02', 'PRI4023-03'], ['RGC1010-06', 'RGC1085-07', 'PRI4023-01', 'RGC1053-05', 'PRI4025-03', 'EGC4039-02'], ['RGC1013-01', 'RGC1084-11', 'PRI4027-01', 'PRI4025-01', 'PRI4041-02', 'RGC1053-09'], ['RGC1014-18', 'PRI4025-04', 'RGC1053-06', 'RGC1085-08', 'PRI4033-02', 'EGC4039-02'], ['RGC1053-07', 'RGC1012-01', 'EGC7026-04', 'PRI4024-01', 'RGC1085-27', 'PRI4023-03']]
+[[<models.Lecture object at 0x7feeca5fdea0>, <models.Lecture object at 0x7feeca5ff2e0>, <models.Lecture object at 0x7feeca5fe770>, <models.Lecture object at 0x7feeca5ff2b0>, <models.Lecture object at 0x7feeca5fdc60>, <models.Lecture object at 0x7feeca5fda50>], [<models.Lecture object at 0x7feeca5fe020>, <models.Lecture object at 0x7feeca5fc100>, <models.Lecture object at 0x7feeca5fcb50>, <models.Lecture object at 0x7feeca5fd6c0>, <models.Lecture object at 0x7feeca5fc160>, <models.Lecture object at 0x7feeca5ff220>], [<models.Lecture object at 0x7feeca5fd510>, <models.Lecture object at 0x7feeca5fc850>, <models.Lecture object at 0x7feeca5fcdc0>, <models.Lecture object at 0x7feeca5fd990>, <models.Lecture object at 0x7feeca5ff880>, <models.Lecture object at 0x7feeca5fea40>], [<models.Lecture object at 0x7feeca5ffe80>, <models.Lecture object at 0x7feeca5fe5f0>, <models.Lecture object at 0x7feeca5fdf90>, <models.Lecture object at 0x7feeca5feaa0>, <models.Lecture object at 0x7feeca5feec0>, <models.Lecture object at 0x7feeca5ff220>], [<models.Lecture object at 0x7feeca5fdf60>, <models.Lecture object at 0x7feeca5fe410>, <models.Lecture object at 0x7feeca5fe0b0>, <models.Lecture object at 0x7feeca5fe920>, <models.Lecture object at 0x7feeca5fddb0>, <models.Lecture object at 0x7feeca5fda50>]]
+INFO:     106.101.130.141:41315 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     106.101.130.141:43616 - "GET /lecture/list/?lecture_name=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4 HTTP/1.1" 200 OK
+INFO:     106.101.130.141:43616 - "GET /lecture/list/?lecture_name=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4 HTTP/1.1" 200 OK
+INFO:     106.101.130.141:32777 - "GET /home HTTP/1.1" 200 OK
+INFO:     106.101.130.141:32777 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:37400 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:37400 - "GET /static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2 HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:37400 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     106.101.130.141:38170 - "GET /lecture/list/?lecture_name=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4 HTTP/1.1" 200 OK
+INFO:     106.101.130.141:38170 - "GET /lecture/list/?lecture_name=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4 HTTP/1.1" 200 OK
+[['CSC4020-01', 'RGC1010-12', 'PRI4041-04', 'PRI4027-02', 'RGC1053-01', 'PRI4025-03'], ['CSC4020-01', 'RGC1010-01', 'PRI4025-04', 'EGC7026-01', 'PRI4024-02', 'RGC1053-07'], ['CSC4020-01', 'RGC1010-13', 'RGC1053-09', 'PRI4025-01', 'PRI4030-04', 'EGC7026-05'], ['CSC4020-01', 'RGC1012-21', 'RGC1084-22', 'RGC1053-08', 'PRI4025-04', 'EGC4039-01'], ['CSC4020-01', 'PRI4025-03', 'RGC1011-14', 'RGC1053-09', 'RGC1084-04', 'EGC4039-01']]
+[[<models.Lecture object at 0x7feecbceb310>, <models.Lecture object at 0x7feeca876200>, <models.Lecture object at 0x7feeca8745e0>, <models.Lecture object at 0x7feecbceb250>, <models.Lecture object at 0x7feeca876ec0>, <models.Lecture object at 0x7feecbceb1c0>], [<models.Lecture object at 0x7feecbceb310>, <models.Lecture object at 0x7feecbceb4c0>, <models.Lecture object at 0x7feeca876b60>, <models.Lecture object at 0x7feeca874f70>, <models.Lecture object at 0x7feeca874220>, <models.Lecture object at 0x7feeca874af0>], [<models.Lecture object at 0x7feecbceb310>, <models.Lecture object at 0x7feeca875cf0>, <models.Lecture object at 0x7feeca874400>, <models.Lecture object at 0x7feeca877400>, <models.Lecture object at 0x7feeca875db0>, <models.Lecture object at 0x7feeca875c60>], [<models.Lecture object at 0x7feecbceb310>, <models.Lecture object at 0x7feeca876890>, <models.Lecture object at 0x7feeca876cb0>, <models.Lecture object at 0x7feecbceb520>, <models.Lecture object at 0x7feeca876b60>, <models.Lecture object at 0x7feeca877a30>], [<models.Lecture object at 0x7feecbceb310>, <models.Lecture object at 0x7feecbceb1c0>, <models.Lecture object at 0x7feecbce90f0>, <models.Lecture object at 0x7feeca874400>, <models.Lecture object at 0x7feeca7e8e20>, <models.Lecture object at 0x7feeca877a30>]]
+INFO:     106.101.130.141:38170 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     210.94.220.230:64043 - "GET / HTTP/1.1" 200 OK
+INFO:     210.94.220.230:64043 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 200 OK
+INFO:     210.94.220.230:64045 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 200 OK
+INFO:     210.94.220.230:64043 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     210.94.220.230:64045 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     210.94.220.230:64047 - "GET /images/face2.png HTTP/1.1" 200 OK
+INFO:     210.94.220.230:64046 - "GET /images/face1.png HTTP/1.1" 200 OK
+INFO:     210.94.220.230:64048 - "GET /images/face3.png HTTP/1.1" 200 OK
+INFO:     210.94.220.230:64049 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     210.94.220.230:64049 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62175 - "GET /images/face3.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62177 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62178 - "GET /images/face1.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62179 - "GET /images/face2.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62176 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62180 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62175 - "GET /images/main3.png HTTP/1.1" 200 OK
+[['RGC1010-07', 'RGC1084-06', 'RGC1053-05', 'EGC4039-02', 'PRI4030-03', 'PRI4027-02'], ['RGC1085-09', 'RGC1011-13', 'PRI4025-02', 'RGC1053-05', 'PRI4023-01', 'EGC7026-05'], ['RGC1013-12', 'RGC1085-18', 'PRI4025-02', 'RGC1053-01', 'PRI4024-03', 'EGC4039-02'], ['RGC1053-04', 'RGC1014-06', 'EGC5033-02', 'RGC1085-17', 'EGC7026-05', 'PRI4025-04'], ['RGC1084-14', 'RGC1011-20', 'PRI4023-02', 'PRI4027-01', 'RGC1053-04', 'EGC7026-05']]
+[[<models.Lecture object at 0x7feeca7eb8e0>, <models.Lecture object at 0x7feeca7ea050>, <models.Lecture object at 0x7feeca7eae90>, <models.Lecture object at 0x7feeca7e93f0>, <models.Lecture object at 0x7feeca7e8d00>, <models.Lecture object at 0x7feeca7eb6d0>], [<models.Lecture object at 0x7feeca7e9db0>, <models.Lecture object at 0x7feeca7e8640>, <models.Lecture object at 0x7feeca7e9480>, <models.Lecture object at 0x7feeca7eae90>, <models.Lecture object at 0x7feeca7ea650>, <models.Lecture object at 0x7feeca7e8d30>], [<models.Lecture object at 0x7feeca7eb670>, <models.Lecture object at 0x7feeca7eb4f0>, <models.Lecture object at 0x7feeca7e9480>, <models.Lecture object at 0x7feeca7ebac0>, <models.Lecture object at 0x7feeca7e8be0>, <models.Lecture object at 0x7feeca7e93f0>], [<models.Lecture object at 0x7feeca7ea260>, <models.Lecture object at 0x7feeca7e9600>, <models.Lecture object at 0x7feeca7e88b0>, <models.Lecture object at 0x7feeca7e89d0>, <models.Lecture object at 0x7feeca7e8d30>, <models.Lecture object at 0x7feeca7eb9d0>], [<models.Lecture object at 0x7feeca7eb0a0>, <models.Lecture object at 0x7feeca7e8b50>, <models.Lecture object at 0x7feeca7eb490>, <models.Lecture object at 0x7feeca7eb160>, <models.Lecture object at 0x7feeca7ea260>, <models.Lecture object at 0x7feeca7e8d30>]]
+INFO:     39.7.230.130:62183 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62190 - "GET /images/face3.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62188 - "GET /images/face2.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62189 - "GET /images/face1.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62187 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62185 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62186 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62190 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62197 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62197 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62198 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62200 - "GET /images/face3.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:3546 - "GET /images/face2.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:18521 - "GET /images/face1.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62199 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:47136 - "GET / HTTP/1.1" 200 OK
+INFO:     106.101.130.141:47136 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:46133 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:46133 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:47136 - "GET /images/face2.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:34892 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:39458 - "GET /images/face3.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:35874 - "GET /images/face1.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:45575 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:45575 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     106.101.130.141:47426 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     106.101.130.141:45575 - "GET /static/js/main.e40c64f5.js.map HTTP/1.1" 200 OK
+INFO:     106.101.130.141:35874 - "GET /static/css/main.cce7d01e.css.map HTTP/1.1" 200 OK
+INFO:     106.101.130.141:34591 - "GET /images/face1.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:34591 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:42827 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:42827 - "GET /static/js/main.e40c64f5.js.map HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:34591 - "GET /static/css/main.cce7d01e.css.map HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:41334 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     106.101.130.141:47132 - "GET /static/images/face1.png HTTP/1.1" 404 Not Found
+INFO:     106.101.130.141:43328 - "GET /static HTTP/1.1" 200 OK
+INFO:     106.101.130.141:43328 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:38726 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:38726 - "GET /static/js/main.e40c64f5.js.map HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:38726 - "GET /static/css/main.cce7d01e.css.map HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:43328 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     106.101.130.141:43328 - "GET /static/images HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:50966 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62353 - "GET /lecture/list/?lecture_name=%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62353 - "GET /lecture/list/?lecture_name=%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62353 - "GET /lecture/list/?lecture_name=%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%81%20%20%EC%B2%98%EB%A6%AC HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62353 - "GET /lecture/list/?lecture_name=%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62353 - "GET /lecture/list/?lecture_name=%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62353 - "GET /lecture/list/?lecture_name=%EB%94%94%EC%A7%80%ED%84%B8%20%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62353 - "GET /lecture/list/?lecture_name=%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC HTTP/1.1" 200 OK
+[['CSC4003-01', 'PRI4024-04', 'EGC7026-01', 'RGC1014-08', 'RGC1053-01', 'PRI4023-04'], ['CSC4003-01', 'RGC1011-14', 'RGC1053-07', 'PRI4023-01', 'PRI4030-03', 'PRI4041-02'], ['CSC4003-01', 'PRI4024-03', 'RGC1053-05', 'EGC7026-01', 'PRI4030-02', 'RGC1084-25'], ['CSC4003-01', 'RGC1013-14', 'RGC1084-04', 'RGC1053-01', 'PRI4024-03', 'PRI4041-03'], ['CSC4003-01', 'RGC1013-12', 'RGC1085-02', 'PRI4023-03', 'EGC7026-03', 'RGC1053-01']]
+[[<models.Lecture object at 0x7feeca5ff9a0>, <models.Lecture object at 0x7feeca5fc4f0>, <models.Lecture object at 0x7feeca5fd990>, <models.Lecture object at 0x7feeca5ff580>, <models.Lecture object at 0x7feeca5feec0>, <models.Lecture object at 0x7feeca5fe770>], [<models.Lecture object at 0x7feeca5ff9a0>, <models.Lecture object at 0x7feeca5fd6f0>, <models.Lecture object at 0x7feeca5fdea0>, <models.Lecture object at 0x7feeca5ffcd0>, <models.Lecture object at 0x7feeca5fcd00>, <models.Lecture object at 0x7feeca5ff2b0>], [<models.Lecture object at 0x7feeca5ff9a0>, <models.Lecture object at 0x7feeca5fc850>, <models.Lecture object at 0x7feeca5fcdc0>, <models.Lecture object at 0x7feeca5fd990>, <models.Lecture object at 0x7feeca5fdc90>, <models.Lecture object at 0x7feeca5ff310>], [<models.Lecture object at 0x7feeca5ff9a0>, <models.Lecture object at 0x7feeca5fcee0>, <models.Lecture object at 0x7feeca5ff5e0>, <models.Lecture object at 0x7feeca5feec0>, <models.Lecture object at 0x7feeca5fc850>, <models.Lecture object at 0x7feeca5fd660>], [<models.Lecture object at 0x7feeca5ff9a0>, <models.Lecture object at 0x7feeca5ffeb0>, <models.Lecture object at 0x7feeca5fca90>, <models.Lecture object at 0x7feeca5fd5a0>, <models.Lecture object at 0x7feeca5febc0>, <models.Lecture object at 0x7feeca5feec0>]]
+INFO:     39.7.230.130:62354 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62357 - "GET /home HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     39.7.230.130:62357 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62356 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     39.7.230.130:62357 - "GET /static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2 HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62357 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62357 - "GET /lecture/list/?lecture_name=%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC HTTP/1.1" 200 OK
+[['CSC4003-01', 'RGC1014-08', 'PRI4030-04', 'PRI4025-04', 'EGC7026-02', 'RGC1053-05'], ['CSC4003-01', 'EGC7026-01', 'RGC1084-03', 'PRI4014-07', 'RGC1012-16', 'RGC1053-08'], ['CSC4003-01', 'RGC1085-24', 'RGC1012-08', 'RGC1053-08', 'PRI4041-05', 'PRI4015-01'], ['CSC4003-01', 'RGC1013-01', 'RGC1053-04', 'PRI4041-02', 'RGC1084-23', 'PRI4023-03'], ['CSC4003-01', 'RGC1014-08', 'RGC1084-27', 'RGC1053-02', 'PRI4041-02', 'PRI4015-02']]
+[[<models.Lecture object at 0x7feeca875d80>, <models.Lecture object at 0x7feeca874280>, <models.Lecture object at 0x7feeca877550>, <models.Lecture object at 0x7feeca877c40>, <models.Lecture object at 0x7feeca875cc0>, <models.Lecture object at 0x7feeca877e50>], [<models.Lecture object at 0x7feeca875d80>, <models.Lecture object at 0x7feeca8764a0>, <models.Lecture object at 0x7feeca875900>, <models.Lecture object at 0x7feeca876c50>, <models.Lecture object at 0x7feeca8750f0>, <models.Lecture object at 0x7feeca874b50>], [<models.Lecture object at 0x7feeca875d80>, <models.Lecture object at 0x7feeca8748b0>, <models.Lecture object at 0x7feeca874be0>, <models.Lecture object at 0x7feeca874b50>, <models.Lecture object at 0x7feeca875750>, <models.Lecture object at 0x7feeca875b70>], [<models.Lecture object at 0x7feeca875d80>, <models.Lecture object at 0x7feeca876aa0>, <models.Lecture object at 0x7feeca876260>, <models.Lecture object at 0x7feecbcd13c0>, <models.Lecture object at 0x7feeca8750c0>, <models.Lecture object at 0x7feecbcd0fa0>], [<models.Lecture object at 0x7feeca875d80>, <models.Lecture object at 0x7feeca874280>, <models.Lecture object at 0x7feeca875e10>, <models.Lecture object at 0x7feecbcd2140>, <models.Lecture object at 0x7feecbcd13c0>, <models.Lecture object at 0x7feecbcd1150>]]
+INFO:     39.7.230.130:62357 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62365 - "GET /lecture/list/?lecture_name=%EA%B8%B0%EC%B4%88%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62365 - "GET /lecture/list/?lecture_name=%EA%B8%B0%EC%B4%88%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D HTTP/1.1" 200 OK
+[['CSC2001-02', 'PRI4023-01', 'RGC1053-04', 'PRI4041-03', 'RGC1012-03', 'PRI4030-03'], ['CSC2001-02', 'RGC1012-14', 'RGC1053-04', 'PRI4041-03', 'PRI4027-01', 'PRI4033-02'], ['CSC2001-02', 'PRI4033-02', 'RGC1014-11', 'EGC4039-03', 'PRI4023-02', 'RGC1053-08'], ['CSC2001-02', 'RGC1014-15', 'RGC1053-09', 'EGC7026-05', 'EGC5033-02', 'RGC1085-01'], ['CSC2001-02', 'RGC1012-11', 'RGC1053-03', 'RGC1085-05', 'EGC5033-02', 'EGC7026-05']]
+[[<models.Lecture object at 0x7feeca8c6560>, <models.Lecture object at 0x7feeca8c7b20>, <models.Lecture object at 0x7feeca8c70d0>, <models.Lecture object at 0x7feeca8c7b80>, <models.Lecture object at 0x7feeca8c5600>, <models.Lecture object at 0x7feeca8c5f60>], [<models.Lecture object at 0x7feeca8c6560>, <models.Lecture object at 0x7feeca8c72e0>, <models.Lecture object at 0x7feeca8c70d0>, <models.Lecture object at 0x7feeca8c7b80>, <models.Lecture object at 0x7feeca8c42b0>, <models.Lecture object at 0x7feeca8c6320>], [<models.Lecture object at 0x7feeca8c6560>, <models.Lecture object at 0x7feeca8c6320>, <models.Lecture object at 0x7feeca8c5120>, <models.Lecture object at 0x7feeca8c60b0>, <models.Lecture object at 0x7feeca8c5090>, <models.Lecture object at 0x7feeca8c57e0>], [<models.Lecture object at 0x7feeca8c6560>, <models.Lecture object at 0x7feeca8c4880>, <models.Lecture object at 0x7feeca8c6b90>, <models.Lecture object at 0x7feeca8c6740>, <models.Lecture object at 0x7feeca8c5750>, <models.Lecture object at 0x7feeca8c4e50>], [<models.Lecture object at 0x7feeca8c6560>, <models.Lecture object at 0x7feeca8c6b30>, <models.Lecture object at 0x7feeca8c7280>, <models.Lecture object at 0x7feeca8c6770>, <models.Lecture object at 0x7feeca8c5750>, <models.Lecture object at 0x7feeca8c6740>]]
+INFO:     39.7.230.130:62366 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     106.101.130.141:45096 - "GET / HTTP/1.1" 200 OK
+INFO:     106.101.130.141:45096 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:35639 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:35639 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:45096 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:42088 - "GET /images/face3.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:42848 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:47116 - "GET /images/face1.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:44289 - "GET /images/face2.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:44289 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     106.101.130.141:36915 - "GET /static/images/ HTTP/1.1" 404 Not Found
+INFO:     106.101.130.141:14492 - "GET /static/images/Face1.png HTTP/1.1" 404 Not Found
+INFO:     106.101.130.141:44913 - "GET /images/Face1.png HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'app.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [4356]
+/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/pydantic/_internal/_config.py:341: UserWarning: Valid config keys have changed in V2:
+* 'orm_mode' has been renamed to 'from_attributes'
+  warnings.warn(message, UserWarning)
+INFO:     Started server process [4647]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     106.101.130.141:44883 - "GET / HTTP/1.1" 200 OK
+INFO:     106.101.130.141:44883 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:46944 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:44883 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     106.101.130.141:46944 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     106.101.130.141:40007 - "GET /images/main2.png HTTP/1.1" 304 Not Modified
+INFO:     106.101.130.141:45676 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     106.101.130.141:14588 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:48691 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     106.101.130.141:48691 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62405 - "GET / HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62405 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 304 Not Modified
+INFO:     39.7.230.130:62406 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 304 Not Modified
+INFO:     39.7.230.130:62406 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62405 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62410 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62409 - "GET /images/main2.png HTTP/1.1" 304 Not Modified
+INFO:     39.7.230.130:62408 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62407 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62410 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62410 - "GET /static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2 HTTP/1.1" 304 Not Modified
+INFO:     39.7.230.130:62410 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62414 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62413 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62416 - "GET / HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62415 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62416 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62418 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62415 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62416 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62418 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62418 - "GET / HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62418 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62415 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62416 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62547 - "GET / HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62547 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 304 Not Modified
+INFO:     39.7.230.130:62547 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 304 Not Modified
+INFO:     39.7.230.130:62547 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62550 - "GET /images/main3.png HTTP/1.1" 304 Not Modified
+INFO:     39.7.230.130:62551 - "GET /images/main1.png HTTP/1.1" 304 Not Modified
+INFO:     39.7.230.130:62552 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62549 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62547 - "GET /images/main2.png HTTP/1.1" 304 Not Modified
+INFO:     39.7.230.130:62547 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62548 - "GET /static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2 HTTP/1.1" 304 Not Modified
+INFO:     39.7.230.130:62548 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62559 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62560 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     39.7.230.130:62562 - "GET /lecture/list/?lecture_name=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4 HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62562 - "GET /lecture/list/?lecture_name=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4 HTTP/1.1" 200 OK
+[['CSC4020-01', 'EGC4039-02', 'RGC1013-16', 'RGC1053-03', 'PRI4033-02', 'PRI4025-01'], ['CSC4020-01', 'RGC1011-04', 'RGC1053-03', 'EGC4039-02', 'PRI4027-02', 'PRI4024-04'], ['CSC4020-01', 'RGC1014-10', 'PRI4027-01', 'RGC1053-07', 'PRI4041-05', 'PRI4023-03'], ['CSC4020-01', 'RGC1053-03', 'RGC1014-14', 'PRI4025-01', 'PRI4024-02', 'PRI4041-03'], ['CSC4020-01', 'RGC1013-03', 'PRI4024-02', 'RGC1085-18', 'RGC1053-03', 'EGC7026-05']]
+[[<models.Lecture object at 0x7f9adea15630>, <models.Lecture object at 0x7f9adea141f0>, <models.Lecture object at 0x7f9adea15c30>, <models.Lecture object at 0x7f9adea15480>, <models.Lecture object at 0x7f9adea165f0>, <models.Lecture object at 0x7f9adea14070>], [<models.Lecture object at 0x7f9adea15630>, <models.Lecture object at 0x7f9adea144f0>, <models.Lecture object at 0x7f9adea15480>, <models.Lecture object at 0x7f9adea141f0>, <models.Lecture object at 0x7f9adea142e0>, <models.Lecture object at 0x7f9adea152a0>], [<models.Lecture object at 0x7f9adea15630>, <models.Lecture object at 0x7f9adea16c50>, <models.Lecture object at 0x7f9adea14af0>, <models.Lecture object at 0x7f9adea16ce0>, <models.Lecture object at 0x7f9adea16da0>, <models.Lecture object at 0x7f9adea16dd0>], [<models.Lecture object at 0x7f9adea15630>, <models.Lecture object at 0x7f9adea15480>, <models.Lecture object at 0x7f9adea15690>, <models.Lecture object at 0x7f9adea14070>, <models.Lecture object at 0x7f9adea16f20>, <models.Lecture object at 0x7f9adea16e90>], [<models.Lecture object at 0x7f9adea15630>, <models.Lecture object at 0x7f9adea16f80>, <models.Lecture object at 0x7f9adea16f20>, <models.Lecture object at 0x7f9adea17160>, <models.Lecture object at 0x7f9adea15480>, <models.Lecture object at 0x7f9adea17190>]]
+INFO:     39.7.230.130:62562 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62563 - "GET /lecture/list/?lecture_name=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4 HTTP/1.1" 200 OK
+INFO:     39.7.230.130:62563 - "GET /lecture/list/?lecture_name=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4 HTTP/1.1" 200 OK
+[['CSC4020-01', 'RGC1084-02', 'RGC1053-03', 'PRI4025-01', 'PRI4015-02', 'PRI4041-03'], ['CSC4020-01', 'EGC7026-02', 'PRI4024-03', 'RGC1014-13', 'RGC1053-08', 'PRI4023-01'], ['CSC4020-01', 'RGC1011-09', 'PRI4041-03', 'RGC1053-05', 'PRI4015-02', 'EGC5033-02'], ['CSC4020-01', 'RGC1011-03', 'PRI4030-04', 'PRI4023-01', 'EGC4039-02', 'RGC1053-07'], ['CSC4020-01', 'RGC1013-03', 'RGC1085-18', 'EGC4039-01', 'PRI4014-07', 'RGC1053-07']]
+[[<models.Lecture object at 0x7f9ade7ab370>, <models.Lecture object at 0x7f9ade7a9390>, <models.Lecture object at 0x7f9ade7a8400>, <models.Lecture object at 0x7f9ade7ab250>, <models.Lecture object at 0x7f9ade7a9330>, <models.Lecture object at 0x7f9ade7ab520>], [<models.Lecture object at 0x7f9ade7ab370>, <models.Lecture object at 0x7f9ade7a8490>, <models.Lecture object at 0x7f9ade7abb20>, <models.Lecture object at 0x7f9ade7a81f0>, <models.Lecture object at 0x7f9ade7a8100>, <models.Lecture object at 0x7f9ade7a97b0>], [<models.Lecture object at 0x7f9ade7ab370>, <models.Lecture object at 0x7f9ade7a9900>, <models.Lecture object at 0x7f9ade7ab520>, <models.Lecture object at 0x7f9ade7a99f0>, <models.Lecture object at 0x7f9ade7a9330>, <models.Lecture object at 0x7f9ade7a9ba0>], [<models.Lecture object at 0x7f9ade7ab370>, <models.Lecture object at 0x7f9ade7a9cc0>, <models.Lecture object at 0x7f9ade7a9d50>, <models.Lecture object at 0x7f9ade7a97b0>, <models.Lecture object at 0x7f9ade7a9e70>, <models.Lecture object at 0x7f9ade7a9ed0>], [<models.Lecture object at 0x7f9ade7ab370>, <models.Lecture object at 0x7f9ade7a9f60>, <models.Lecture object at 0x7f9ade7a9f90>, <models.Lecture object at 0x7f9ade7aa020>, <models.Lecture object at 0x7f9ade7aa050>, <models.Lecture object at 0x7f9ade7a9ed0>]]
+INFO:     39.7.230.130:62563 - "POST /schedule/recommend HTTP/1.1" 200 OK
+[['RGC1084-18', 'EGC7026-03', 'RGC1014-03', 'PRI4024-02', 'RGC1053-02', 'PRI4015-02'], ['RGC1013-02', 'RGC1053-07', 'RGC1085-23', 'PRI4024-02', 'PRI4023-03', 'PRI4041-04'], ['RGC1011-18', 'RGC1085-12', 'PRI4041-03', 'PRI4024-03', 'PRI4027-01', 'RGC1053-09'], ['RGC1053-04', 'RGC1085-04', 'RGC1013-11', 'PRI4030-04', 'PRI4033-01', 'EGC7026-03'], ['RGC1053-04', 'PRI4023-03', 'PRI4027-01', 'RGC1011-21', 'RGC1085-07', 'EGC4039-03']]
+[[<models.Lecture object at 0x7f9ade8c4370>, <models.Lecture object at 0x7f9ade8c4040>, <models.Lecture object at 0x7f9ade8c57b0>, <models.Lecture object at 0x7f9ade8c55a0>, <models.Lecture object at 0x7f9ade8c5d20>, <models.Lecture object at 0x7f9ade8c5720>], [<models.Lecture object at 0x7f9ade8c69b0>, <models.Lecture object at 0x7f9ade8c6dd0>, <models.Lecture object at 0x7f9ade8c7250>, <models.Lecture object at 0x7f9ade8c55a0>, <models.Lecture object at 0x7f9ade8c6e30>, <models.Lecture object at 0x7f9ade8c5780>], [<models.Lecture object at 0x7f9ade8c5e40>, <models.Lecture object at 0x7f9ade8c5d50>, <models.Lecture object at 0x7f9ade8c68c0>, <models.Lecture object at 0x7f9ade8c6950>, <models.Lecture object at 0x7f9ade8c6a40>, <models.Lecture object at 0x7f9ade8c71f0>], [<models.Lecture object at 0x7f9ade8c7280>, <models.Lecture object at 0x7f9ade8c70d0>, <models.Lecture object at 0x7f9ade8c40d0>, <models.Lecture object at 0x7f9ade8c7b80>, <models.Lecture object at 0x7f9ade8c58a0>, <models.Lecture object at 0x7f9ade8c4040>], [<models.Lecture object at 0x7f9ade8c7280>, <models.Lecture object at 0x7f9ade8c6e30>, <models.Lecture object at 0x7f9ade8c6a40>, <models.Lecture object at 0x7f9ade8c7c10>, <models.Lecture object at 0x7f9ade8c74c0>, <models.Lecture object at 0x7f9ade8c7880>]]
+INFO:     39.7.230.130:62563 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     210.94.220.229:63629 - "GET / HTTP/1.1" 200 OK
+INFO:     210.94.220.229:63629 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 304 Not Modified
+INFO:     210.94.220.229:63630 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 304 Not Modified
+INFO:     210.94.220.229:63630 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     210.94.220.229:63629 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     210.94.220.229:63636 - "GET /images/main2.png HTTP/1.1" 304 Not Modified
+INFO:     210.94.220.229:63639 - "GET /images/main1.png HTTP/1.1" 304 Not Modified
+INFO:     210.94.220.229:63638 - "GET /images/main3.png HTTP/1.1" 304 Not Modified
+INFO:     210.94.220.229:63637 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     210.94.220.229:63637 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     210.94.220.229:63713 - "GET /static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2 HTTP/1.1" 304 Not Modified
+INFO:     210.94.220.229:63750 - "GET /home HTTP/1.1" 200 OK
+INFO:     27.0.238.69:37420 - "GET / HTTP/1.1" 200 OK
+INFO:     118.235.3.50:39470 - "GET / HTTP/1.1" 200 OK
+INFO:     118.235.3.50:63069 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 304 Not Modified
+INFO:     118.235.3.50:39470 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 304 Not Modified
+INFO:     118.235.3.50:63069 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     118.235.3.50:39470 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     118.235.3.50:42604 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     118.235.3.50:63073 - "GET /images/main3.png HTTP/1.1" 304 Not Modified
+INFO:     118.235.3.50:33816 - "GET /images/main2.png HTTP/1.1" 304 Not Modified
+INFO:     118.235.3.50:63071 - "GET /images/main1.png HTTP/1.1" 304 Not Modified
+INFO:     118.235.3.50:63071 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     35.203.211.7:60742 - "GET / HTTP/1.1" 200 OK
+INFO:     210.94.220.230:64963 - "GET / HTTP/1.1" 200 OK
+INFO:     210.94.220.230:64963 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 304 Not Modified
+INFO:     210.94.220.230:64965 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 304 Not Modified
+INFO:     210.94.220.230:64965 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     210.94.220.230:64963 - "GET /images/main2.png HTTP/1.1" 304 Not Modified
+INFO:     210.94.220.230:64966 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     210.94.220.230:64968 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     210.94.220.230:64969 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     210.94.220.230:64967 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     210.94.220.230:64963 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     210.94.220.230:65040 - "GET /static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2 HTTP/1.1" 200 OK
+INFO:     172.226.95.47:33160 - "GET / HTTP/1.1" 200 OK
+INFO:     172.226.95.47:32546 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     172.226.95.47:33160 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 200 OK
+INFO:     172.226.95.47:31422 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 200 OK
+INFO:     172.226.95.47:32546 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     172.226.95.47:31422 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     172.226.95.47:33160 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     172.226.95.47:33479 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     172.226.95.47:37534 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     172.226.95.47:34749 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     172.226.95.47:32546 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     172.226.95.47:32546 - "GET /static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2 HTTP/1.1" 200 OK
+INFO:     210.94.220.230:65043 - "GET /lecture/list/?lecture_name=%EB%94%94%EC%A7%80%ED%84%B8%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC HTTP/1.1" 200 OK
+INFO:     172.226.95.47:32774 - "GET /lecture/list/?lecture_name=%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9E%85%EB%AC%B8 HTTP/1.1" 200 OK
+[['CSC4003-01', 'RGC1013-08', 'RGC1053-02', 'EGC4039-03', 'PRI4030-04', 'PRI4024-04'], ['CSC4003-01', 'RGC1011-17', 'RGC1053-05', 'PRI4030-03', 'PRI4041-04', 'PRI4023-01'], ['CSC4003-01', 'EGC7026-01', 'RGC1010-18', 'PRI4025-02', 'PRI4027-02', 'RGC1053-04'], ['CSC4003-01', 'RGC1013-07', 'PRI4014-03', 'RGC1053-05', 'EGC7026-03', 'RGC1084-29'], ['CSC4003-01', 'RGC1014-16', 'RGC1085-18', 'EGC4039-01', 'PRI4027-01', 'RGC1053-08']]
+[[<models.Lecture object at 0x7f9adea15d20>, <models.Lecture object at 0x7f9adea16800>, <models.Lecture object at 0x7f9adea17910>, <models.Lecture object at 0x7f9adea17970>, <models.Lecture object at 0x7f9adea148b0>, <models.Lecture object at 0x7f9adea14700>], [<models.Lecture object at 0x7f9adea15d20>, <models.Lecture object at 0x7f9adea15060>, <models.Lecture object at 0x7f9adea173a0>, <models.Lecture object at 0x7f9adea144f0>, <models.Lecture object at 0x7f9adea155d0>, <models.Lecture object at 0x7f9adea17d00>], [<models.Lecture object at 0x7f9adea15d20>, <models.Lecture object at 0x7f9adea150c0>, <models.Lecture object at 0x7f9adea14fd0>, <models.Lecture object at 0x7f9adea16320>, <models.Lecture object at 0x7f9adea17fd0>, <models.Lecture object at 0x7f9adea16a10>], [<models.Lecture object at 0x7f9adea15d20>, <models.Lecture object at 0x7f9adea14340>, <models.Lecture object at 0x7f9adea161d0>, <models.Lecture object at 0x7f9adea173a0>, <models.Lecture object at 0x7f9adea16aa0>, <models.Lecture object at 0x7f9adea15240>], [<models.Lecture object at 0x7f9adea15d20>, <models.Lecture object at 0x7f9adea17700>, <models.Lecture object at 0x7f9adea16f20>, <models.Lecture object at 0x7f9adea15300>, <models.Lecture object at 0x7f9adea15b10>, <models.Lecture object at 0x7f9adea15e10>]]
+INFO:     210.94.220.230:65046 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     172.226.95.47:33748 - "GET /lecture/list/?lecture_name=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%84%A4%EA%B3%84 HTTP/1.1" 200 OK
+INFO:     172.226.95.47:30883 - "GET /lecture/list/?lecture_name=%EC%8B%AC%EB%A6%AC HTTP/1.1" 200 OK
+[['EGC1109-01', 'CSC4020-02', 'CSC4023-02', 'RGC1053-01', 'EGC7026-01', 'RGC1011-05'], ['EGC1109-01', 'CSC4020-02', 'CSC4023-02', 'RGC1085-18', 'RGC1053-03', 'PRI4041-05'], ['EGC1109-01', 'CSC4020-02', 'CSC4023-02', 'RGC1014-18', 'RGC1053-06', 'EGC4039-03'], ['EGC1109-01', 'CSC4020-02', 'CSC4023-02', 'RGC1053-07', 'RGC1085-27', 'EGC4039-02'], ['EGC1109-01', 'CSC4020-02', 'CSC4023-02', 'RGC1011-05', 'RGC1053-09', 'EGC4039-02']]
+[[<models.Lecture object at 0x7f9ade9ffdc0>, <models.Lecture object at 0x7f9ade9fd8a0>, <models.Lecture object at 0x7f9ae061e9b0>, <models.Lecture object at 0x7f9ae061f850>, <models.Lecture object at 0x7f9ade9fd780>, <models.Lecture object at 0x7f9adec92050>], [<models.Lecture object at 0x7f9ade9ffdc0>, <models.Lecture object at 0x7f9ade9fd8a0>, <models.Lecture object at 0x7f9ae061e9b0>, <models.Lecture object at 0x7f9ae061fc10>, <models.Lecture object at 0x7f9ae061d840>, <models.Lecture object at 0x7f9ade9fffa0>], [<models.Lecture object at 0x7f9ade9ffdc0>, <models.Lecture object at 0x7f9ade9fd8a0>, <models.Lecture object at 0x7f9ae061e9b0>, <models.Lecture object at 0x7f9ade9ffeb0>, <models.Lecture object at 0x7f9ade9fd720>, <models.Lecture object at 0x7f9ae061f730>], [<models.Lecture object at 0x7f9ade9ffdc0>, <models.Lecture object at 0x7f9ade9fd8a0>, <models.Lecture object at 0x7f9ae061e9b0>, <models.Lecture object at 0x7f9adec92d10>, <models.Lecture object at 0x7f9ade9fd600>, <models.Lecture object at 0x7f9ade9fd7b0>], [<models.Lecture object at 0x7f9ade9ffdc0>, <models.Lecture object at 0x7f9ade9fd8a0>, <models.Lecture object at 0x7f9ae061e9b0>, <models.Lecture object at 0x7f9adec92050>, <models.Lecture object at 0x7f9ade9ffa90>, <models.Lecture object at 0x7f9ade9fd7b0>]]
+INFO:     172.226.95.47:37367 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     172.226.95.47:36978 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     172.226.95.47:34484 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     172.226.95.47:35914 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     172.226.95.47:33571 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     172.226.95.47:34076 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     172.226.95.47:37193 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     27.0.238.181:58690 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     210.94.220.228:54695 - "GET / HTTP/1.1" 200 OK
+INFO:     210.94.220.228:54696 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 200 OK
+INFO:     210.94.220.228:54695 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     210.94.220.228:54696 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     210.94.220.228:54695 - "GET /images/main1.png HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     210.94.220.228:54710 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     210.94.220.228:54709 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     210.94.220.228:54708 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     210.94.220.228:54707 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     210.94.220.228:54695 - "GET /images/main3.png HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     210.94.220.228:54730 - "GET /static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2 HTTP/1.1" 200 OK
+INFO:     210.94.220.228:54737 - "GET /lecture/list/?lecture_name=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98 HTTP/1.1" 200 OK
+INFO:     210.94.220.228:54813 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     210.94.220.228:54814 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     210.94.220.228:54815 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     210.94.220.228:54847 - "GET /lecture/list/?lecture_name=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98 HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+[['RGC1053-07', 'RGC1084-19', 'EGC5033-01', 'RGC1010-03', 'PRI4015-01', 'PRI4041-03'], ['RGC1013-21', 'RGC1085-24', 'PRI4027-02', 'EGC7026-06', 'PRI4030-02', 'RGC1053-03'], ['RGC1085-23', 'PRI4030-02', 'PRI4015-02', 'RGC1053-01', 'RGC1010-18', 'EGC7026-06'], ['RGC1014-11', 'PRI4015-02', 'RGC1085-12', 'RGC1053-01', 'EGC7026-03', 'PRI4023-01'], ['RGC1011-21', 'RGC1084-14', 'PRI4015-02', 'EGC4039-03', 'PRI4025-02', 'RGC1053-06']]
+[[<models.Lecture object at 0x7f9ade7a8460>, <models.Lecture object at 0x7f9ade7a8190>, <models.Lecture object at 0x7f9ade7aa830>, <models.Lecture object at 0x7f9ade7a9600>, <models.Lecture object at 0x7f9ade7aa710>, <models.Lecture object at 0x7f9ade7a95a0>], [<models.Lecture object at 0x7f9ade7a8580>, <models.Lecture object at 0x7f9ade7a8220>, <models.Lecture object at 0x7f9ade7a8f70>, <models.Lecture object at 0x7f9ade7aa8f0>, <models.Lecture object at 0x7f9ade7a9b40>, <models.Lecture object at 0x7f9ade7a8c40>], [<models.Lecture object at 0x7f9ade7a9780>, <models.Lecture object at 0x7f9ade7a9b40>, <models.Lecture object at 0x7f9ade7ab190>, <models.Lecture object at 0x7f9ade7a9f00>, <models.Lecture object at 0x7f9ade7a9ed0>, <models.Lecture object at 0x7f9ade7aa8f0>], [<models.Lecture object at 0x7f9ade7a9cc0>, <models.Lecture object at 0x7f9ade7ab190>, <models.Lecture object at 0x7f9ade7a8550>, <models.Lecture object at 0x7f9ade7a9f00>, <models.Lecture object at 0x7f9ade7aad40>, <models.Lecture object at 0x7f9ade7ab760>], [<models.Lecture object at 0x7f9ade7a9e10>, <models.Lecture object at 0x7f9ade7a8f10>, <models.Lecture object at 0x7f9ade7ab190>, <models.Lecture object at 0x7f9ade7aa980>, <models.Lecture object at 0x7f9ade7a85e0>, <models.Lecture object at 0x7f9ade7a93f0>]]
+INFO:     210.94.220.228:54885 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     27.0.238.117:36890 - "GET / HTTP/1.1" 200 OK
+INFO:     27.0.238.186:60414 - "GET / HTTP/1.1" 200 OK
+INFO:     35.203.210.136:61484 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     175.119.115.190:60023 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     147.185.132.169:62042 - "GET / HTTP/1.1" 200 OK
+INFO:     162.216.149.156:63446 - "GET / HTTP/1.1" 200 OK
+INFO:     175.126.201.98:49780 - "GET / HTTP/1.1" 200 OK
+INFO:     175.126.201.98:49780 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 200 OK
+INFO:     175.126.201.98:49781 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 304 Not Modified
+INFO:     175.126.201.98:49781 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     175.126.201.98:49780 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     175.126.201.98:49782 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     175.126.201.98:49785 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     175.126.201.98:49783 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     175.126.201.98:49784 - "GET /images/main2.png HTTP/1.1" 304 Not Modified
+INFO:     175.126.201.98:49783 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     35.196.132.85:59296 - "GET / HTTP/1.1" 200 OK
+INFO:     175.126.201.98:49924 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     175.126.201.98:49923 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     175.126.201.98:49922 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     14.42.109.91:2492 - "GET / HTTP/1.1" 200 OK
+INFO:     14.42.109.91:2492 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 200 OK
+INFO:     14.42.109.91:2493 - "GET /static/css/main.cce7d01e.css HTTP/1.1" 200 OK
+INFO:     14.42.109.91:2492 - "GET /images/main1.png HTTP/1.1" 200 OK
+INFO:     14.42.109.91:2493 - "GET /images/main2.png HTTP/1.1" 200 OK
+INFO:     14.42.109.91:2507 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     14.42.109.91:2492 - "GET /images/main3.png HTTP/1.1" 200 OK
+INFO:     14.42.109.91:2508 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     14.42.109.91:2506 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     14.42.109.91:2493 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     175.126.201.98:50091 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     175.126.201.98:50092 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     175.126.201.98:50093 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     175.126.201.98:50093 - "GET /static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2 HTTP/1.1" 304 Not Modified
+[['RGC1011-13', 'EGC4039-01', 'PRI4025-02', 'RGC1085-08', 'RGC1053-01', 'PRI4024-03'], ['RGC1084-07', 'RGC1012-15', 'EGC7026-05', 'PRI4030-01', 'RGC1053-01', 'EGC5033-01'], ['RGC1084-03', 'RGC1053-03', 'RGC1014-18', 'PRI4015-01', 'PRI4023-01', 'EGC4039-02'], ['RGC1012-07', 'RGC1084-18', 'PRI4024-04', 'PRI4025-02', 'PRI4041-01', 'RGC1053-05'], ['RGC1010-11', 'PRI4023-02', 'PRI4041-05', 'PRI4027-01', 'RGC1085-18', 'RGC1053-03']]
+INFO:     175.126.201.98:50093 - "POST /schedule/recommend HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/pymysql/connections.py", line 806, in _write_bytes
+    self._sock.sendall(data)
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/pymysql/cursors.py", line 153, in execute
+    result = self._query(query)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/pymysql/connections.py", line 562, in query
+    self._execute_command(COMMAND.COM_QUERY, sql)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/pymysql/connections.py", line 864, in _execute_command
+    self._write_bytes(packet)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/pymysql/connections.py", line 809, in _write_bytes
+    raise err.OperationalError(
+pymysql.err.OperationalError: (2006, "MySQL server has gone away (BrokenPipeError(32, 'Broken pipe'))")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/uvicorn/protocols/http/httptools_impl.py", line 399, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/uvicorn/middleware/proxy_headers.py", line 70, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/starlette/middleware/cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/starlette/middleware/cors.py", line 148, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/fastapi/routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/starlette/concurrency.py", line 42, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/anyio/to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 2177, in run_sync_in_worker_thread
+    return await future
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 859, in run
+    result = context.run(func, *args)
+  File "/home/biyotteu/gunJJang/back/src/routers/schedule.py", line 14, in recommend_schedule
+    "top5":schedule_cud.recommend_schedule(body,db)
+  File "/home/biyotteu/gunJJang/back/src/crud/schedule.py", line 16, in recommend_schedule
+    lecture = db.query(models.Lecture).filter(models.Lecture.course_code == l).first()
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/sqlalchemy/orm/query.py", line 2728, in first
+    return self.limit(1)._iter().first()  # type: ignore
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/sqlalchemy/orm/query.py", line 2827, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2236, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/sqlalchemy/orm/context.py", line 293, in orm_execute_statement
+    result = conn.execute(
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2353, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/pymysql/cursors.py", line 153, in execute
+    result = self._query(query)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/pymysql/connections.py", line 562, in query
+    self._execute_command(COMMAND.COM_QUERY, sql)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/pymysql/connections.py", line 864, in _execute_command
+    self._write_bytes(packet)
+  File "/home/biyotteu/anaconda3/envs/course/lib/python3.10/site-packages/pymysql/connections.py", line 809, in _write_bytes
+    raise err.OperationalError(
+sqlalchemy.exc.OperationalError: (pymysql.err.OperationalError) (2006, "MySQL server has gone away (BrokenPipeError(32, 'Broken pipe'))")
+[SQL: SELECT lecture.id AS lecture_id, lecture.year_level AS lecture_year_level, lecture.curriculum AS lecture_curriculum, lecture.course_category AS lecture_course_category, lecture.course_code AS lecture_course_code, lecture.course_name AS lecture_course_name, lecture.professor_name AS lecture_professor_name, lecture.campus AS lecture_campus, lecture.day_time AS lecture_day_time, lecture.classroom AS lecture_classroom, lecture.credits AS lecture_credits, lecture.lecture_type AS lecture_lecture_type, lecture.lecture_category AS lecture_lecture_category, lecture.course_type AS lecture_course_type, lecture.offering_college AS lecture_offering_college, lecture.offering_department AS lecture_offering_department, lecture.intensive_semester AS lecture_intensive_semester, lecture.notes AS lecture_notes 
+FROM lecture 
+WHERE lecture.course_code = %(course_code_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'course_code_1': 'RGC1011-13', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+INFO:     14.42.109.91:2509 - "GET /static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2 HTTP/1.1" 200 OK
+INFO:     175.126.201.98:50170 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     175.126.201.98:50172 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     175.126.201.98:50171 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     14.42.109.91:2526 - "GET /lecture/list/?lecture_name=%EA%B8%B0%EC%B4%88 HTTP/1.1" 200 OK
+[['RGC1012-20', 'PRI4023-06', 'RGC1053-09', 'RGC1084-28', 'PRI4025-03', 'EGC7026-01'], ['RGC1011-03', 'RGC1084-22', 'PRI4015-01', 'RGC1053-02', 'EGC4039-02', 'PRI4023-06'], ['RGC1013-17', 'RGC1053-07', 'RGC1084-04', 'PRI4024-02', 'PRI4030-01', 'PRI4041-01'], ['RGC1013-09', 'RGC1084-07', 'EGC7026-03', 'EGC5033-01', 'PRI4023-04', 'RGC1053-08'], ['PRI4027-01', 'RGC1084-07', 'RGC1011-20', 'PRI4030-04', 'RGC1053-06', 'PRI4041-01']]
+[[<models.Lecture object at 0x7f9ade7a9660>, <models.Lecture object at 0x7f9ade7a9270>, <models.Lecture object at 0x7f9ade7ab250>, <models.Lecture object at 0x7f9ade7abca0>, <models.Lecture object at 0x7f9ade7abd60>, <models.Lecture object at 0x7f9ade7a9bd0>], [<models.Lecture object at 0x7f9ade7ab580>, <models.Lecture object at 0x7f9ade7aa6e0>, <models.Lecture object at 0x7f9ade7a9d20>, <models.Lecture object at 0x7f9ade7ab4f0>, <models.Lecture object at 0x7f9ade7a8f40>, <models.Lecture object at 0x7f9ade7a9270>], [<models.Lecture object at 0x7f9ade7a9480>, <models.Lecture object at 0x7f9ade7ab070>, <models.Lecture object at 0x7f9ade7a9600>, <models.Lecture object at 0x7f9ade7a8370>, <models.Lecture object at 0x7f9ade7aa2c0>, <models.Lecture object at 0x7f9ade7aad40>], [<models.Lecture object at 0x7f9ade7a81f0>, <models.Lecture object at 0x7f9ade7a8790>, <models.Lecture object at 0x7f9ade7a8460>, <models.Lecture object at 0x7f9ade7aa830>, <models.Lecture object at 0x7f9ade7ab6d0>, <models.Lecture object at 0x7f9ade7a9fc0>], [<models.Lecture object at 0x7f9ade7aa380>, <models.Lecture object at 0x7f9ade7a8790>, <models.Lecture object at 0x7f9ade8c4a60>, <models.Lecture object at 0x7f9ade8c7970>, <models.Lecture object at 0x7f9ade8c4a30>, <models.Lecture object at 0x7f9ade7aad40>]]
+INFO:     14.42.109.91:2527 - "POST /schedule/recommend HTTP/1.1" 200 OK
+INFO:     14.42.109.91:2532 - "GET /images/face1.png HTTP/1.1" 404 Not Found
+INFO:     14.42.109.91:2533 - "GET /images/face2.png HTTP/1.1" 404 Not Found
+INFO:     14.42.109.91:2534 - "GET /images/face3.png HTTP/1.1" 404 Not Found
+INFO:     162.216.150.138:58796 - "GET / HTTP/1.1" 200 OK
+INFO:     35.203.211.44:63484 - "GET / HTTP/1.1" 200 OK
+INFO:     147.185.133.114:60652 - "GET / HTTP/1.1" 200 OK
+INFO:     118.194.251.75:51104 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     211.231.103.91:45584 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     35.203.211.26:63924 - "GET / HTTP/1.1" 200 OK
+INFO:     162.216.149.86:61898 - "GET / HTTP/1.1" 200 OK
+INFO:     147.185.133.171:60630 - "GET / HTTP/1.1" 200 OK
+INFO:     36.99.136.137:60159 - "GET / HTTP/1.1" 200 OK
+INFO:     36.99.136.129:51634 - "GET / HTTP/1.1" 200 OK
+INFO:     36.99.136.129:52106 - "GET /static/js/main.e40c64f5.js HTTP/1.1" 200 OK
+INFO:     36.99.136.128:43591 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     87.236.176.100:55277 - "GET / HTTP/1.1" 200 OK
+INFO:     87.236.176.61:60919 - "GET /favicon.ico HTTP/1.1" 200 OK
+INFO:     35.203.210.142:58084 - "GET / HTTP/1.1" 200 OK
+INFO:     35.203.211.18:60600 - "GET / HTTP/1.1" 200 OK
+INFO:     35.203.210.64:64446 - "GET / HTTP/1.1" 200 OK
+INFO:     35.203.211.28:59890 - "GET / HTTP/1.1" 200 OK
+INFO:     35.203.211.140:61816 - "GET / HTTP/1.1" 200 OK
+INFO:     35.203.210.140:64904 - "GET / HTTP/1.1" 200 OK
+INFO:     35.203.210.172:64826 - "GET / HTTP/1.1" 200 OK
